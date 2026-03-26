@@ -205,6 +205,14 @@
 
 ---
 
+## Full Tool Index
+
+**[View all 1,680+ tools organized by category → TOOLS.md](TOOLS.md)**
+
+Every tool with a direct link — searchable, browsable, and all dofollow.
+
+---
+
 ## Why These Tools?
 
 - **No signup, no email** — open and use immediately
