@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,725 free browser-based tools** across **94 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,746 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -127,7 +127,7 @@
 - [Matrix Calculator](https://tool.teamzlab.com/math/matrix-calculator/) — Operations up to 10x10 matrices
 - [Standard Deviation Calculator](https://tool.teamzlab.com/math/standard-deviation-calculator/) — Mean, median, variance
 
-**[Browse all 29 math tools →](https://tool.teamzlab.com/math/)**
+**[Browse all 30 math tools →](https://tool.teamzlab.com/math/)**
 
 ## Gaming
 
@@ -145,7 +145,7 @@
 - [Browser Fingerprint Checker](https://tool.teamzlab.com/diagnostic/browser-fingerprint-checker/) — See how trackable you are
 - [WebRTC Leak Checker](https://tool.teamzlab.com/diagnostic/webrtc-leak-checker/) — Detect IP leaks through WebRTC
 
-**[Browse all 30 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
+**[Browse all 31 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
 
 ## Food & Drink
 
@@ -172,7 +172,11 @@
 | 🇺🇸 United States | 80 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
 | 🇬🇧 United Kingdom | 23 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 43 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
-| 🇫🇷 France | 9 | APL, Prime d'activite, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇫🇷 France | 9 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇧🇪 Belgium | 4 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
+| 🇱🇺 Luxembourg | 3 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
+| 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
+| 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 8 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
 | 🇸🇬 Singapore | 10 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
 | 🇳🇿 New Zealand | 8 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
@@ -181,6 +185,13 @@
 | 🇦🇺 Australia | 26 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
 | 🇨🇦 Canada | 11 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 23 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
+| 🇪🇸 Spain | 24 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
+| 🇵🇹 Portugal | 24 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
+| 🇳🇱 Netherlands | 12 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
+| 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
+| 🇸🇪 Sweden | 18 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
+| 🇳🇴 Norway | 12 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
+| 🇮🇹 Italy | 8 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
 
@@ -217,6 +228,7 @@
 | [I Built 1,700+ Free Browser Tools in 2 Weeks — Here's What Actually Works](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/46) | [Read](https://dev.to/teamzlab/i-built-1700-free-browser-tools-in-2-weeks-heres-what-actually-works-1n7d) | [Read](https://teamzlab.hashnode.dev/i-built-1700-free-browser-tools-in-2-weeks-heres-what-actually-works) | [Read](https://teamzlab.blogspot.com/2026/03/i-built-1700-free-browser-tools-in-2.html) | [Read](https://telegra.ph/I-Built-1700-Free-Browser-Tools-in-2-Weeks--Heres-What-Actually-Works-03-27) |
 | [3 Free CD & Savings Calculators — No Signup, No Tracking, No Bank Pitches](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/47) | [Read](https://dev.to/teamzlab/3-free-cd-savings-calculators-no-signup-no-tracking-no-bank-pitches-1k8l) | [Read](https://teamzlab.hashnode.dev/3-free-cd-savings-calculators-no-signup-no-tracking-no-bank-pitches) | [Read](https://teamzlab.blogspot.com/2026/03/3-free-cd-savings-calculators-no-signup.html) | [Read](https://telegra.ph/3-Free-CD--Savings-Calculators--No-Signup-No-Tracking-No-Bank-Pitches-03-27) |
 | [Convert HEIC to JPG Without Uploading Your Photos — Plus 3 More Free Tools](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/48) | [Read](https://dev.to/teamzlab/convert-heic-to-jpg-without-uploading-your-photos-plus-3-more-free-tools-p56) | [Read](https://teamzlab.hashnode.dev/convert-heic-to-jpg-without-uploading-your-photos-plus-3-more-free-tools) | [Read](https://teamzlab.blogspot.com/2026/03/convert-heic-to-jpg-without-uploading.html) | [Read](https://telegra.ph/Convert-HEIC-to-JPG-Without-Uploading-Your-Photos--Plus-3-More-Free-Tools-03-27) |
+| [Kostenlose Finanzrechner für Luxemburg 2026 — Gehalt, Steuer & Grenzgänger](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/49) | [Read](https://dev.to/teamzlab/kostenlose-finanzrechner-fur-luxemburg-2026-gehalt-steuer-grenzganger-37co) | [Read](https://teamzlab.hashnode.dev/kostenlose-finanzrechner-fur-luxemburg-2026-gehalt-steuer-grenzganger) | [Read](https://teamzlab.blogspot.com/2026/03/kostenlose-finanzrechner-fur-luxemburg.html) | [Read](https://telegra.ph/Kostenlose-Finanzrechner-für-Luxemburg-2026--Gehalt-Steuer--Grenzgänger-03-27) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -224,7 +236,7 @@
 
 ## Full Tool Index
 
-**[View all 1,725 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,746 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
