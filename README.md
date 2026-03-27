@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,715 free browser-based tools** across **94 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,725 free browser-based tools** across **94 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -39,7 +39,7 @@
 - [Net Worth Calculator](https://tool.teamzlab.com/evergreen/net-worth-calculator/) — Track assets minus liabilities
 - [Side Hustle Profit Calculator](https://tool.teamzlab.com/evergreen/side-hustle-profit-calculator/) — Real hourly rate after expenses
 
-**[Browse all 180 finance tools →](https://tool.teamzlab.com/evergreen/)**
+**[Browse all 185 finance tools →](https://tool.teamzlab.com/evergreen/)**
 
 ## Developer Tools
 
@@ -170,7 +170,7 @@
 | Country | Tools | Link |
 |---------|-------|------|
 | 🇺🇸 United States | 80 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 22 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇬🇧 United Kingdom | 23 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 43 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 9 | APL, Prime d'activite, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇯🇵 Japan | 8 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
@@ -215,6 +215,7 @@
 | [Renovation Costs Are Up 10% This Spring — 12 Free Calculators to Plan Before You Overspend](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/26) | [Read](https://dev.to/teamzlab/renovation-costs-are-up-10-this-spring-12-free-calculators-to-plan-before-you-overspend-43g7) | [Read](https://teamzlab.hashnode.dev/renovation-costs-are-up-10-this-spring-12-free-calculators-to-plan-before-you-overspend) | [Read](https://teamzlab.blogspot.com/2026/03/renovation-costs-are-up-10-this-spring.html) | [Read](https://telegra.ph/Renovation-Costs-Are-Up-10-This-Spring--12-Free-Calculators-to-Plan-Before-You-Overspend-03-26) |
 | [13 Free Finland Tools — Aurora Forecast, Unemployment Calculator, Sauna Timer & More](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/45) | [Read](https://dev.to/teamzlab/13-free-finland-tools-aurora-forecast-unemployment-calculator-sauna-timer-more-4i8o) | [Read](https://teamzlab.hashnode.dev/13-free-finland-tools-aurora-forecast-unemployment-calculator-sauna-timer-more) | [Read](https://teamzlab.blogspot.com/2026/03/13-free-finland-tools-aurora-forecast.html) | [Read](https://telegra.ph/13-Free-Finland-Tools--Aurora-Forecast-Unemployment-Calculator-Sauna-Timer--More-03-27) |
 | [I Built 1,700+ Free Browser Tools in 2 Weeks — Here's What Actually Works](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/46) | [Read](https://dev.to/teamzlab/i-built-1700-free-browser-tools-in-2-weeks-heres-what-actually-works-1n7d) | [Read](https://teamzlab.hashnode.dev/i-built-1700-free-browser-tools-in-2-weeks-heres-what-actually-works) | [Read](https://teamzlab.blogspot.com/2026/03/i-built-1700-free-browser-tools-in-2.html) | [Read](https://telegra.ph/I-Built-1700-Free-Browser-Tools-in-2-Weeks--Heres-What-Actually-Works-03-27) |
+| [3 Free CD & Savings Calculators — No Signup, No Tracking, No Bank Pitches](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/47) | [Read](https://dev.to/teamzlab/3-free-cd-savings-calculators-no-signup-no-tracking-no-bank-pitches-1k8l) | [Read](https://teamzlab.hashnode.dev/3-free-cd-savings-calculators-no-signup-no-tracking-no-bank-pitches) | [Read](https://teamzlab.blogspot.com/2026/03/3-free-cd-savings-calculators-no-signup.html) | [Read](https://telegra.ph/3-Free-CD--Savings-Calculators--No-Signup-No-Tracking-No-Bank-Pitches-03-27) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -222,7 +223,7 @@
 
 ## Full Tool Index
 
-**[View all 1,715 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,725 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
