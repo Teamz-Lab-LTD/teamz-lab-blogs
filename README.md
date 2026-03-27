@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,680+ free browser-based tools** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,715 free browser-based tools** across **94 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -11,6 +11,7 @@
 - [Finance & Money](#finance--money)
 - [Developer Tools](#developer-tools)
 - [Health & Wellness](#health--wellness)
+- [Beauty & Skincare](#beauty--skincare)
 - [AI-Powered Tools](#ai-powered-tools)
 - [Design & Images](#design--images)
 - [Home & Housing](#home--housing)
@@ -38,7 +39,7 @@
 - [Net Worth Calculator](https://tool.teamzlab.com/evergreen/net-worth-calculator/) — Track assets minus liabilities
 - [Side Hustle Profit Calculator](https://tool.teamzlab.com/evergreen/side-hustle-profit-calculator/) — Real hourly rate after expenses
 
-**[Browse all 178+ finance tools →](https://tool.teamzlab.com/evergreen/)**
+**[Browse all 180 finance tools →](https://tool.teamzlab.com/evergreen/)**
 
 ## Developer Tools
 
@@ -52,7 +53,7 @@
 - [UUID Generator](https://tool.teamzlab.com/dev/uuid-generator/) — Generate v4 UUIDs in bulk
 - [Subnet Calculator](https://tool.teamzlab.com/dev/subnet-calculator/) — CIDR, network ranges, host counts
 
-**[Browse all 71+ developer tools →](https://tool.teamzlab.com/dev/)**
+**[Browse all 71 developer tools →](https://tool.teamzlab.com/dev/)**
 
 ## Health & Wellness
 
@@ -65,7 +66,17 @@
 - [Body Fat Calculator](https://tool.teamzlab.com/health/body-fat-calculator/) — Estimate from measurements
 - [Phone Addiction Test](https://tool.teamzlab.com/health/phone-addiction-test/) — Screen time assessment
 
-**[Browse all 93+ health tools →](https://tool.teamzlab.com/health/)**
+**[Browse all 95 health tools →](https://tool.teamzlab.com/health/)**
+
+## Beauty & Skincare
+
+- [Ingredient Checker](https://tool.teamzlab.com/skincare/ingredient-checker/) — Flag irritants, comedogenic ingredients, fragrance, and pregnancy-unsafe actives
+- [Product Expiry Tracker](https://tool.teamzlab.com/skincare/product-expiry-tracker/) — Track PAO dates and know what to use up first
+- [SPF Calculator](https://tool.teamzlab.com/skincare/spf-calculator/) — Estimate the SPF level you need by skin tone and UV exposure
+- [Sunscreen Reapply Timer](https://tool.teamzlab.com/skincare/sunscreen-reapply-timer/) — Time your next sunscreen reapplication by activity
+- [Skin Type Quiz](https://tool.teamzlab.com/skincare/skin-type-quiz/) — Get a simple skincare starting point based on your skin profile
+
+**[Browse all 7 skincare tools →](https://tool.teamzlab.com/skincare/)**
 
 ## AI-Powered Tools
 
@@ -104,9 +115,10 @@
 - [ATS Resume Checker](https://tool.teamzlab.com/career/ats-resume-checker/) — Check if your resume passes ATS filters
 - [Resume Keyword Scanner](https://tool.teamzlab.com/career/resume-keyword-scanner/) — Match resume keywords to job descriptions
 - [LinkedIn Summary Generator](https://tool.teamzlab.com/career/linkedin-summary-generator/) — Professional LinkedIn About section
+- [Salary Negotiation Script Generator](https://tool.teamzlab.com/career/salary-negotiation-script-generator/) — Generate negotiation scripts in multiple tones and currencies
 - [Offer Comparison Calculator](https://tool.teamzlab.com/career/offer-comparison-calculator/) — Compare job offers with total compensation
 
-**[Browse all career tools →](https://tool.teamzlab.com/career/)**
+**[Browse all 22 career tools →](https://tool.teamzlab.com/career/)**
 
 ## Math & Science
 
@@ -115,7 +127,7 @@
 - [Matrix Calculator](https://tool.teamzlab.com/math/matrix-calculator/) — Operations up to 10x10 matrices
 - [Standard Deviation Calculator](https://tool.teamzlab.com/math/standard-deviation-calculator/) — Mean, median, variance
 
-**[Browse all 29+ math tools →](https://tool.teamzlab.com/math/)**
+**[Browse all 29 math tools →](https://tool.teamzlab.com/math/)**
 
 ## Gaming
 
@@ -124,7 +136,7 @@
 - [DPI Calculator](https://tool.teamzlab.com/gaming/dpi-calculator/) — Effective DPI and sensitivity converter
 - [PC Bottleneck Calculator](https://tool.teamzlab.com/gaming/pc-bottleneck-calculator/) — CPU vs GPU bottleneck analysis
 
-**[Browse all gaming tools →](https://tool.teamzlab.com/gaming/)**
+**[Browse all 16 gaming tools →](https://tool.teamzlab.com/gaming/)**
 
 ## Privacy & Security
 
@@ -133,7 +145,7 @@
 - [Browser Fingerprint Checker](https://tool.teamzlab.com/diagnostic/browser-fingerprint-checker/) — See how trackable you are
 - [WebRTC Leak Checker](https://tool.teamzlab.com/diagnostic/webrtc-leak-checker/) — Detect IP leaks through WebRTC
 
-**[Browse all 30+ diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
+**[Browse all 30 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
 
 ## Food & Drink
 
@@ -157,16 +169,18 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| \U0001f1fa\U0001f1f8 United States | 80+ tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| \U0001f1ec\U0001f1e7 United Kingdom | Tax, pension, NHS tools | [Browse →](https://tool.teamzlab.com/uk/) |
-| \U0001f1e9\U0001f1ea Germany | Brutto-Netto, Elterngeld, KFZ | [Browse →](https://tool.teamzlab.com/de/) |
-| \U0001f1eb\U0001f1f7 France | APL, Prime d'activite, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
-| \U0001f1ef\U0001f1f5 Japan | Tedori, Furusato Nozei, Housing Loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| \U0001f1e6\U0001f1ea UAE | Gratuity, Salik, Visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
-| \U0001f1e7\U0001f1e9 Bangladesh | bKash, Nagad, Tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| \U0001f1e6\U0001f1fa Australia | HECS, Super, PR Points | [Browse →](https://tool.teamzlab.com/au/) |
-| \U0001f1e8\U0001f1e6 Canada | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
-| \U0001f1ee\U0001f1f3 India | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
+| 🇺🇸 United States | 80 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇬🇧 United Kingdom | 22 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇩🇪 Germany | 43 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
+| 🇫🇷 France | 9 | APL, Prime d'activite, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇯🇵 Japan | 8 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
+| 🇸🇬 Singapore | 10 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 8 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇦🇪 UAE | 8 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
+| 🇧🇩 Bangladesh | 29 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
+| 🇦🇺 Australia | 26 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 11 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇮🇳 India | 23 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 
 ---
 
@@ -208,7 +222,7 @@
 
 ## Full Tool Index
 
-**[View all 1,680+ tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,715 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
