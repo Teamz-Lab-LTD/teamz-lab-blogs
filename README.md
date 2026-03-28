@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,746 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,819 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -39,7 +39,7 @@
 - [Net Worth Calculator](https://tool.teamzlab.com/evergreen/net-worth-calculator/) — Track assets minus liabilities
 - [Side Hustle Profit Calculator](https://tool.teamzlab.com/evergreen/side-hustle-profit-calculator/) — Real hourly rate after expenses
 
-**[Browse all 185 finance tools →](https://tool.teamzlab.com/evergreen/)**
+**[Browse all 186 finance tools →](https://tool.teamzlab.com/evergreen/)**
 
 ## Developer Tools
 
@@ -76,7 +76,7 @@
 - [Sunscreen Reapply Timer](https://tool.teamzlab.com/skincare/sunscreen-reapply-timer/) — Time your next sunscreen reapplication by activity
 - [Skin Type Quiz](https://tool.teamzlab.com/skincare/skin-type-quiz/) — Get a simple skincare starting point based on your skin profile
 
-**[Browse all 7 skincare tools →](https://tool.teamzlab.com/skincare/)**
+**[Browse all 11 skincare tools →](https://tool.teamzlab.com/skincare/)**
 
 ## AI-Powered Tools
 
@@ -118,7 +118,7 @@
 - [Salary Negotiation Script Generator](https://tool.teamzlab.com/career/salary-negotiation-script-generator/) — Generate negotiation scripts in multiple tones and currencies
 - [Offer Comparison Calculator](https://tool.teamzlab.com/career/offer-comparison-calculator/) — Compare job offers with total compensation
 
-**[Browse all 22 career tools →](https://tool.teamzlab.com/career/)**
+**[Browse all 23 career tools →](https://tool.teamzlab.com/career/)**
 
 ## Math & Science
 
@@ -169,25 +169,25 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 80 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 23 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
-| 🇩🇪 Germany | 43 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
+| 🇺🇸 United States | 85 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇬🇧 United Kingdom | 28 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇩🇪 Germany | 46 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 9 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
-| 🇧🇪 Belgium | 4 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
+| 🇧🇪 Belgium | 5 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
 | 🇱🇺 Luxembourg | 3 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 8 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 10 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 8 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇸🇬 Singapore | 15 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 12 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 8 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 29 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 26 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
-| 🇨🇦 Canada | 11 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇦🇺 Australia | 33 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 15 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 23 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
-| 🇪🇸 Spain | 24 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
-| 🇵🇹 Portugal | 24 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
-| 🇳🇱 Netherlands | 12 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
+| 🇪🇸 Spain | 35 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
+| 🇵🇹 Portugal | 37 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
+| 🇳🇱 Netherlands | 13 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
 | 🇸🇪 Sweden | 18 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
 | 🇳🇴 Norway | 12 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
@@ -233,6 +233,7 @@
 | [Darmowe Kalkulatory Finansowe dla Polski 2026 — Wynagrodzenia, Kredyt, PIT](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/51) | [Read](https://dev.to/teamzlab/darmowe-kalkulatory-finansowe-dla-polski-2026-wynagrodzenia-kredyt-pit-d18) | [Read](https://teamzlab.hashnode.dev/darmowe-kalkulatory-finansowe-dla-polski-2026-wynagrodzenia-kredyt-pit) | [Read](https://teamzlab.blogspot.com/2026/03/darmowe-kalkulatory-finansowe-dla.html) | [Read](https://telegra.ph/Darmowe-Kalkulatory-Finansowe-dla-Polski-2026--Wynagrodzenia-Kredyt-PIT-03-27) |
 | [Bezplatné Finanční Kalkulačky pro Česko 2026 — Mzdy, Hypotéka, Daně](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/52) | [Read](https://dev.to/teamzlab/bezplatne-financni-kalkulacky-pro-cesko-2026-mzdy-hypoteka-dane-53ko) | [Read](https://teamzlab.hashnode.dev/bezplatne-financni-kalkulacky-pro-cesko-2026-mzdy-hypoteka-dane) | [Read](https://teamzlab.blogspot.com/2026/03/bezplatne-financni-kalkulacky-pro-cesko.html) | [Read](https://telegra.ph/Bezplatné-Finanční-Kalkulačky-pro-Česko-2026--Mzdy-Hypotéka-Daně-03-27) |
 | [4 Free Crypto Tax Tools for 2026 — DAC8, Portfolio Rebalancer, Fear & Greed DCA](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/53) | [Read](https://dev.to/teamzlab/4-free-crypto-tax-tools-for-2026-dac8-portfolio-rebalancer-fear-greed-dca-1344) | [Read](https://teamzlab.hashnode.dev/4-free-crypto-tax-tools-for-2026-dac8-portfolio-rebalancer-fear-greed-dca) | [Read](https://teamzlab.blogspot.com/2026/03/4-free-crypto-tax-tools-for-2026-dac8.html) | [Read](https://telegra.ph/4-Free-Crypto-Tax-Tools-for-2026--DAC8-Portfolio-Rebalancer-Fear--Greed-DCA-03-27) |
+| [16 Free Finance Tools for Australia, NZ, Singapore & Switzerland](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/54) | — | [Read](https://teamzlab.hashnode.dev/16-free-finance-tools-for-australia-nz-singapore-switzerland) | [Read](https://teamzlab.blogspot.com/2026/03/16-free-finance-tools-for-australia-nz.html) | [Read](https://telegra.ph/16-Free-Finance-Tools-for-Australia-NZ-Singapore--Switzerland-03-28) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -240,7 +241,7 @@
 
 ## Full Tool Index
 
-**[View all 1,746 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,819 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
