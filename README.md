@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,819 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,829 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -233,11 +233,7 @@
 | [Darmowe Kalkulatory Finansowe dla Polski 2026 — Wynagrodzenia, Kredyt, PIT](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/51) | [Read](https://dev.to/teamzlab/darmowe-kalkulatory-finansowe-dla-polski-2026-wynagrodzenia-kredyt-pit-d18) | [Read](https://teamzlab.hashnode.dev/darmowe-kalkulatory-finansowe-dla-polski-2026-wynagrodzenia-kredyt-pit) | [Read](https://teamzlab.blogspot.com/2026/03/darmowe-kalkulatory-finansowe-dla.html) | [Read](https://telegra.ph/Darmowe-Kalkulatory-Finansowe-dla-Polski-2026--Wynagrodzenia-Kredyt-PIT-03-27) |
 | [Bezplatné Finanční Kalkulačky pro Česko 2026 — Mzdy, Hypotéka, Daně](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/52) | [Read](https://dev.to/teamzlab/bezplatne-financni-kalkulacky-pro-cesko-2026-mzdy-hypoteka-dane-53ko) | [Read](https://teamzlab.hashnode.dev/bezplatne-financni-kalkulacky-pro-cesko-2026-mzdy-hypoteka-dane) | [Read](https://teamzlab.blogspot.com/2026/03/bezplatne-financni-kalkulacky-pro-cesko.html) | [Read](https://telegra.ph/Bezplatné-Finanční-Kalkulačky-pro-Česko-2026--Mzdy-Hypotéka-Daně-03-27) |
 | [4 Free Crypto Tax Tools for 2026 — DAC8, Portfolio Rebalancer, Fear & Greed DCA](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/53) | [Read](https://dev.to/teamzlab/4-free-crypto-tax-tools-for-2026-dac8-portfolio-rebalancer-fear-greed-dca-1344) | [Read](https://teamzlab.hashnode.dev/4-free-crypto-tax-tools-for-2026-dac8-portfolio-rebalancer-fear-greed-dca) | [Read](https://teamzlab.blogspot.com/2026/03/4-free-crypto-tax-tools-for-2026-dac8.html) | [Read](https://telegra.ph/4-Free-Crypto-Tax-Tools-for-2026--DAC8-Portfolio-Rebalancer-Fear--Greed-DCA-03-27) |
-| [16 Free Finance Tools for Australia, NZ, Singapore & Switzerland](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/54) | [Read](https://dev.to/teamzlab/16-free-finance-tools-for-australia-nz-singapore-switzerland-1l3f) | [Read](https://teamzlab.hashnode.dev/16-free-finance-tools-for-australia-nz-singapore-switzerland) | [Read](https://teamzlab.blogspot.com/2026/03/16-free-finance-tools-for-australia-nz.html) | [Read](https://telegra.ph/16-Free-Finance-Tools-for-Australia-NZ-Singapore--Switzerland-03-28) |
-| [14 Free Finance Calculators for UK, Canada, Ireland, Belgium & Netherlands](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/55) | [Read](https://dev.to/teamzlab/14-free-finance-calculators-for-uk-canada-ireland-belgium-netherlands-3nb) | [Read](https://teamzlab.hashnode.dev/14-free-finance-calculators-for-uk-canada-ireland-belgium-netherlands) | [Read](https://teamzlab.blogspot.com/2026/03/14-free-finance-calculators-for-uk.html) | [Read](https://telegra.ph/14-Free-Finance-Calculators-for-UK-Canada-Ireland-Belgium--Netherlands-03-28) |
-| [10 Herramientas Financieras Gratuitas en Español — España y México](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/56) | [Read](https://dev.to/teamzlab/10-herramientas-financieras-gratuitas-en-espanol-espana-y-mexico-2jd6) | [Read](https://teamzlab.hashnode.dev/10-herramientas-financieras-gratuitas-en-espanol-espana-y-mexico) | [Read](https://teamzlab.blogspot.com/2026/03/10-herramientas-financieras-gratuitas.html) | [Read](https://telegra.ph/10-Herramientas-Financieras-Gratuitas-en-Español--España-y-México-03-28) |
-| [11 Ferramentas Financeiras Gratuitas em Português — Brasil e Portugal](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/57) | [Read](https://dev.to/teamzlab/11-ferramentas-financeiras-gratuitas-em-portugues-brasil-e-portugal-2g83) | [Read](https://teamzlab.hashnode.dev/11-ferramentas-financeiras-gratuitas-em-portugues-brasil-e-portugal) | [Read](https://teamzlab.blogspot.com/2026/03/11-ferramentas-financeiras-gratuitas-em.html) | [Read](https://telegra.ph/11-Ferramentas-Financeiras-Gratuitas-em-Português--Brasil-e-Portugal-03-28) |
-| [3 Kostenlose Steuerrechner für Deutschland 2026](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/58) | [Read](https://dev.to/teamzlab/3-kostenlose-steuerrechner-fur-deutschland-2026-3jjo) | [Read](https://teamzlab.hashnode.dev/3-kostenlose-steuerrechner-fur-deutschland-2026) | [Read](https://teamzlab.blogspot.com/2026/03/3-kostenlose-steuerrechner-fur.html) | [Read](https://telegra.ph/3-Kostenlose-Steuerrechner-für-Deutschland-2026-03-28) |
+| [10 Free Marketing Tools for Small Business Owners](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/59) | [Read](https://dev.to/teamzlab/10-free-marketing-tools-for-small-business-owners-3ead) | [Read](https://teamzlab.hashnode.dev/10-free-marketing-tools-for-small-business-owners) | [Read](https://teamzlab.blogspot.com/2026/03/10-free-marketing-tools-for-small.html) | [Read](https://telegra.ph/10-Free-Marketing-Tools-for-Small-Business-Owners-03-28) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -245,7 +241,7 @@
 
 ## Full Tool Index
 
-**[View all 1,819 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,829 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
