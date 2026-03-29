@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,858 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,865 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -53,7 +53,7 @@
 - [UUID Generator](https://tool.teamzlab.com/dev/uuid-generator/) — Generate v4 UUIDs in bulk
 - [Subnet Calculator](https://tool.teamzlab.com/dev/subnet-calculator/) — CIDR, network ranges, host counts
 
-**[Browse all 72 developer tools →](https://tool.teamzlab.com/dev/)**
+**[Browse all 73 developer tools →](https://tool.teamzlab.com/dev/)**
 
 ## Health & Wellness
 
@@ -169,7 +169,7 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 85 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇺🇸 United States | 87 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
 | 🇬🇧 United Kingdom | 28 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 46 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 9 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
@@ -180,7 +180,7 @@
 | 🇯🇵 Japan | 8 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
 | 🇸🇬 Singapore | 15 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
 | 🇳🇿 New Zealand | 12 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
-| 🇦🇪 UAE | 8 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
+| 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 29 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
 | 🇦🇺 Australia | 33 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
 | 🇨🇦 Canada | 15 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
@@ -242,6 +242,7 @@
 | [5 Free Finance & Data Tools Powered by Live APIs](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/68) | [Read](https://dev.to/teamzlab/5-free-finance-data-tools-powered-by-live-apis-67l) | [Read](https://teamzlab.hashnode.dev/5-free-finance-data-tools-powered-by-live-apis-1) | [Read](https://teamzlab.blogspot.com/2026/03/5-free-finance-data-tools-powered-by_01535328632.html) | [Read](https://telegra.ph/5-Free-Finance--Data-Tools-Powered-by-Live-APIs-03-29-2) |
 | [5 Free Knowledge & Entertainment Tools Using Open APIs](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/69) | [Read](https://dev.to/teamzlab/5-free-knowledge-entertainment-tools-using-open-apis-5ddi) | [Read](https://teamzlab.hashnode.dev/5-free-knowledge-entertainment-tools-using-open-apis-1) | [Read](https://teamzlab.blogspot.com/2026/03/5-free-knowledge-entertainment-tools_01194184222.html) | [Read](https://telegra.ph/5-Free-Knowledge--Entertainment-Tools-Using-Open-APIs-03-29-2) |
 | [DDR5 Prices Dropped 7.2% — Free Tools to Know If Upgrading Is Worth It](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/70) | [Read](https://dev.to/teamzlab/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it-4ka5) | [Read](https://teamzlab.hashnode.dev/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it) | [Read](https://teamzlab.blogspot.com/2026/03/ddr5-prices-dropped-72-free-tools-to.html) | [Read](https://telegra.ph/DDR5-Prices-Dropped-72--Free-Tools-to-Know-If-Upgrading-Is-Worth-It-03-29) |
+| [6 Free API-Powered Tools — Weather, ZIP, Fake Data, Currency Chart, Demographics](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/71) | — | [Read](https://teamzlab.hashnode.dev/6-free-api-powered-tools-weather-zip-fake-data-currency-chart-demographics) | [Read](https://teamzlab.blogspot.com/2026/03/6-free-api-powered-tools-weather-zip.html) | [Read](https://telegra.ph/6-Free-API-Powered-Tools--Weather-ZIP-Fake-Data-Currency-Chart-Demographics-03-29) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -249,7 +250,7 @@
 
 ## Full Tool Index
 
-**[View all 1,858 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,865 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
