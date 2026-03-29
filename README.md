@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,834 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,854 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -39,7 +39,7 @@
 - [Net Worth Calculator](https://tool.teamzlab.com/evergreen/net-worth-calculator/) — Track assets minus liabilities
 - [Side Hustle Profit Calculator](https://tool.teamzlab.com/evergreen/side-hustle-profit-calculator/) — Real hourly rate after expenses
 
-**[Browse all 186 finance tools →](https://tool.teamzlab.com/evergreen/)**
+**[Browse all 189 finance tools →](https://tool.teamzlab.com/evergreen/)**
 
 ## Developer Tools
 
@@ -53,7 +53,7 @@
 - [UUID Generator](https://tool.teamzlab.com/dev/uuid-generator/) — Generate v4 UUIDs in bulk
 - [Subnet Calculator](https://tool.teamzlab.com/dev/subnet-calculator/) — CIDR, network ranges, host counts
 
-**[Browse all 71 developer tools →](https://tool.teamzlab.com/dev/)**
+**[Browse all 72 developer tools →](https://tool.teamzlab.com/dev/)**
 
 ## Health & Wellness
 
@@ -66,7 +66,7 @@
 - [Body Fat Calculator](https://tool.teamzlab.com/health/body-fat-calculator/) — Estimate from measurements
 - [Phone Addiction Test](https://tool.teamzlab.com/health/phone-addiction-test/) — Screen time assessment
 
-**[Browse all 95 health tools →](https://tool.teamzlab.com/health/)**
+**[Browse all 99 health tools →](https://tool.teamzlab.com/health/)**
 
 ## Beauty & Skincare
 
@@ -237,6 +237,7 @@
 | [1800+ Free Browser Tools — Complete Directory (No Signup, No Downloads, 100% Private)](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/60) | — | [Read](https://teamzlab.hashnode.dev/1800-free-browser-tools-complete-directory-no-signup-no-downloads-100-private) | [Read](https://teamzlab.blogspot.com/2026/03/1800-free-browser-tools-complete.html) | [Read](https://telegra.ph/1800-Free-Browser-Tools--Complete-Directory-No-Signup-No-Downloads-100-Private-03-28) |
 | [I Built 1,829 Free Browser Tools — Here's the Complete Directory](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/61) | — | [Read](https://teamzlab.hashnode.dev/i-built-1829-free-browser-tools-heres-the-complete-directory) | [Read](https://teamzlab.blogspot.com/2026/03/i-built-1829-free-browser-tools-heres.html) | [Read](https://telegra.ph/I-Built-1829-Free-Browser-Tools--Heres-the-Complete-Directory-03-28) |
 | [5 Free Baby & Parenting Tools Every New Parent Needs](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/62) | [Read](https://dev.to/teamzlab/5-free-baby-parenting-tools-every-new-parent-needs-2m) | [Read](https://teamzlab.hashnode.dev/5-free-baby-parenting-tools-every-new-parent-needs) | [Read](https://teamzlab.blogspot.com/2026/03/5-free-baby-parenting-tools-every-new.html) | [Read](https://telegra.ph/5-Free-Baby--Parenting-Tools-Every-New-Parent-Needs-03-29) |
+| [5 Free Knowledge & Entertainment Tools Using Open APIs](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/63) | — | [Read](https://teamzlab.hashnode.dev/5-free-knowledge-entertainment-tools-using-open-apis) | [Read](https://teamzlab.blogspot.com/2026/03/5-free-knowledge-entertainment-tools.html) | [Read](https://telegra.ph/5-Free-Knowledge--Entertainment-Tools-Using-Open-APIs-03-29) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -244,7 +245,7 @@
 
 ## Full Tool Index
 
-**[View all 1,834 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,854 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
