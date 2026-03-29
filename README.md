@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,854 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,858 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -136,7 +136,7 @@
 - [DPI Calculator](https://tool.teamzlab.com/gaming/dpi-calculator/) — Effective DPI and sensitivity converter
 - [PC Bottleneck Calculator](https://tool.teamzlab.com/gaming/pc-bottleneck-calculator/) — CPU vs GPU bottleneck analysis
 
-**[Browse all 16 gaming tools →](https://tool.teamzlab.com/gaming/)**
+**[Browse all 20 gaming tools →](https://tool.teamzlab.com/gaming/)**
 
 ## Privacy & Security
 
@@ -241,6 +241,7 @@
 | [5 Free Food & Nutrition Tools Built on Public APIs](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/67) | — | [Read](https://teamzlab.hashnode.dev/5-free-food-nutrition-tools-built-on-public-apis-1) | [Read](https://teamzlab.blogspot.com/2026/03/5-free-food-nutrition-tools-built-on_01252048026.html) | [Read](https://telegra.ph/5-Free-Food--Nutrition-Tools-Built-on-Public-APIs-03-29-2) |
 | [5 Free Finance & Data Tools Powered by Live APIs](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/68) | [Read](https://dev.to/teamzlab/5-free-finance-data-tools-powered-by-live-apis-67l) | [Read](https://teamzlab.hashnode.dev/5-free-finance-data-tools-powered-by-live-apis-1) | [Read](https://teamzlab.blogspot.com/2026/03/5-free-finance-data-tools-powered-by_01535328632.html) | [Read](https://telegra.ph/5-Free-Finance--Data-Tools-Powered-by-Live-APIs-03-29-2) |
 | [5 Free Knowledge & Entertainment Tools Using Open APIs](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/69) | [Read](https://dev.to/teamzlab/5-free-knowledge-entertainment-tools-using-open-apis-5ddi) | [Read](https://teamzlab.hashnode.dev/5-free-knowledge-entertainment-tools-using-open-apis-1) | [Read](https://teamzlab.blogspot.com/2026/03/5-free-knowledge-entertainment-tools_01194184222.html) | [Read](https://telegra.ph/5-Free-Knowledge--Entertainment-Tools-Using-Open-APIs-03-29-2) |
+| [DDR5 Prices Dropped 7.2% — Free Tools to Know If Upgrading Is Worth It](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/70) | [Read](https://dev.to/teamzlab/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it-4ka5) | [Read](https://teamzlab.hashnode.dev/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it) | [Read](https://teamzlab.blogspot.com/2026/03/ddr5-prices-dropped-72-free-tools-to.html) | [Read](https://telegra.ph/DDR5-Prices-Dropped-72--Free-Tools-to-Know-If-Upgrading-Is-Worth-It-03-29) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -248,7 +249,7 @@
 
 ## Full Tool Index
 
-**[View all 1,854 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,858 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
