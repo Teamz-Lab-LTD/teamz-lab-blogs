@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,881 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,891 free browser-based tools** across **99 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -170,27 +170,27 @@
 | Country | Tools | Link |
 |---------|-------|------|
 | 🇺🇸 United States | 87 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 28 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
-| 🇩🇪 Germany | 46 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
+| 🇬🇧 United Kingdom | 29 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇩🇪 Germany | 47 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 9 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
-| 🇧🇪 Belgium | 5 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
+| 🇧🇪 Belgium | 6 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
 | 🇱🇺 Luxembourg | 3 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 8 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
 | 🇸🇬 Singapore | 15 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 12 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇳🇿 New Zealand | 13 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 29 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
 | 🇦🇺 Australia | 34 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
-| 🇨🇦 Canada | 15 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇨🇦 Canada | 16 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 23 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 35 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 37 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
 | 🇳🇱 Netherlands | 13 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
 | 🇸🇪 Sweden | 18 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
-| 🇳🇴 Norway | 12 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
+| 🇳🇴 Norway | 13 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
 | 🇮🇹 Italy | 8 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
@@ -247,6 +247,7 @@
 | [Free sports calculators for IPL, T20 World Cup, and Champions League fans](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/73) | [Read](https://dev.to/teamzlab/free-sports-calculators-for-ipl-t20-world-cup-and-champions-league-fans-24b1) | [Read](https://teamzlab.hashnode.dev/free-sports-calculators-for-ipl-t20-world-cup-and-champions-league-fans) | [Read](https://teamzlab.blogspot.com/2026/03/free-sports-calculators-for-ipl-t20.html) | [Read](https://telegra.ph/Free-sports-calculators-for-IPL-T20-World-Cup-and-Champions-League-fans-03-30) |
 | [Free VPN Leak Test, Encrypted DNS Checker, and DNS Server Check](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/74) | [Read](https://dev.to/teamzlab/free-vpn-leak-test-encrypted-dns-checker-and-dns-server-check-3no4) | [Read](https://teamzlab.hashnode.dev/free-vpn-leak-test-encrypted-dns-checker-and-dns-server-check) | [Read](https://teamzlab.blogspot.com/2026/03/free-vpn-leak-test-encrypted-dns.html) | [Read](https://telegra.ph/Free-VPN-Leak-Test-Encrypted-DNS-Checker-and-DNS-Server-Check-03-30) |
 | [7 Free AI Photo Tools That Run in Your Browser (No Upload, No Signup)](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/76) | [Read](https://dev.to/teamzlab/7-free-ai-photo-tools-that-run-in-your-browser-no-upload-no-signup-1kci) | [Read](https://teamzlab.hashnode.dev/7-free-ai-photo-tools-that-run-in-your-browser-no-upload-no-signup) | [Read](https://teamzlab.blogspot.com/2026/03/7-free-ai-photo-tools-that-run-in-your.html) | [Read](https://telegra.ph/7-Free-AI-Photo-Tools-That-Run-in-Your-Browser-No-Upload-No-Signup-03-30) |
+| [5 Free Tax Calculators: UK CGT, Ireland Director Tax, NZ FIF, Quebec & Israel](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/77) | — | [Read](https://teamzlab.hashnode.dev/5-free-tax-calculators-uk-cgt-ireland-director-tax-nz-fif-quebec-israel) | [Read](https://teamzlab.blogspot.com/2026/03/5-free-tax-calculators-uk-cgt-ireland.html) | [Read](https://telegra.ph/5-Free-Tax-Calculators-UK-CGT-Ireland-Director-Tax-NZ-FIF-Quebec--Israel-03-30) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -254,7 +255,7 @@
 
 ## Full Tool Index
 
-**[View all 1,881 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,891 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
