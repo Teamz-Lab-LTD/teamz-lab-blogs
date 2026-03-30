@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,873 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,878 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -182,7 +182,7 @@
 | 🇳🇿 New Zealand | 12 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 29 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 33 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇦🇺 Australia | 34 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
 | 🇨🇦 Canada | 15 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 23 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 35 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
@@ -246,6 +246,7 @@
 | [4 Free Finance Tools — Live Gold Price UAE, Crypto Portfolio, US Stock Checker](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/72) | [Read](https://dev.to/teamzlab/4-free-finance-tools-live-gold-price-uae-crypto-portfolio-us-stock-checker-2m91) | [Read](https://teamzlab.hashnode.dev/4-free-finance-tools-live-gold-price-uae-crypto-portfolio-us-stock-checker) | [Read](https://teamzlab.blogspot.com/2026/03/4-free-finance-tools-live-gold-price.html) | [Read](https://telegra.ph/4-Free-Finance-Tools--Live-Gold-Price-UAE-Crypto-Portfolio-US-Stock-Checker-03-29) |
 | [Free sports calculators for IPL, T20 World Cup, and Champions League fans](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/73) | [Read](https://dev.to/teamzlab/free-sports-calculators-for-ipl-t20-world-cup-and-champions-league-fans-24b1) | [Read](https://teamzlab.hashnode.dev/free-sports-calculators-for-ipl-t20-world-cup-and-champions-league-fans) | [Read](https://teamzlab.blogspot.com/2026/03/free-sports-calculators-for-ipl-t20.html) | [Read](https://telegra.ph/Free-sports-calculators-for-IPL-T20-World-Cup-and-Champions-League-fans-03-30) |
 | [Free VPN Leak Test, Encrypted DNS Checker, and DNS Server Check](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/74) | [Read](https://dev.to/teamzlab/free-vpn-leak-test-encrypted-dns-checker-and-dns-server-check-3no4) | [Read](https://teamzlab.hashnode.dev/free-vpn-leak-test-encrypted-dns-checker-and-dns-server-check) | [Read](https://teamzlab.blogspot.com/2026/03/free-vpn-leak-test-encrypted-dns.html) | [Read](https://telegra.ph/Free-VPN-Leak-Test-Encrypted-DNS-Checker-and-DNS-Server-Check-03-30) |
+| [Free Points Test 189 Calculator Australia — Check Your Subclass 189 Score](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/75) | [Read](https://dev.to/teamzlab/free-points-test-189-calculator-australia-check-your-subclass-189-score-26eo) | [Read](https://teamzlab.hashnode.dev/free-points-test-189-calculator-australia-check-your-subclass-189-score) | [Read](https://teamzlab.blogspot.com/2026/03/free-points-test-189-calculator.html) | [Read](https://telegra.ph/Free-Points-Test-189-Calculator-Australia--Check-Your-Subclass-189-Score-03-30) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -253,7 +254,7 @@
 
 ## Full Tool Index
 
-**[View all 1,873 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,878 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
