@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,865 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,873 free browser-based tools** across **98 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -145,7 +145,7 @@
 - [Browser Fingerprint Checker](https://tool.teamzlab.com/diagnostic/browser-fingerprint-checker/) — See how trackable you are
 - [WebRTC Leak Checker](https://tool.teamzlab.com/diagnostic/webrtc-leak-checker/) — Detect IP leaks through WebRTC
 
-**[Browse all 31 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
+**[Browse all 34 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
 
 ## Food & Drink
 
@@ -244,6 +244,7 @@
 | [DDR5 Prices Dropped 7.2% — Free Tools to Know If Upgrading Is Worth It](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/70) | [Read](https://dev.to/teamzlab/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it-4ka5) | [Read](https://teamzlab.hashnode.dev/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it) | [Read](https://teamzlab.blogspot.com/2026/03/ddr5-prices-dropped-72-free-tools-to.html) | [Read](https://telegra.ph/DDR5-Prices-Dropped-72--Free-Tools-to-Know-If-Upgrading-Is-Worth-It-03-29) |
 | [6 Free API-Powered Tools — Weather, ZIP, Fake Data, Currency Chart, Demographics](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/71) | [Read](https://dev.to/teamzlab/6-free-api-powered-tools-weather-zip-fake-data-currency-chart-demographics-542l) | [Read](https://teamzlab.hashnode.dev/6-free-api-powered-tools-weather-zip-fake-data-currency-chart-demographics) | [Read](https://teamzlab.blogspot.com/2026/03/6-free-api-powered-tools-weather-zip.html) | [Read](https://telegra.ph/6-Free-API-Powered-Tools--Weather-ZIP-Fake-Data-Currency-Chart-Demographics-03-29) |
 | [4 Free Finance Tools — Live Gold Price UAE, Crypto Portfolio, US Stock Checker](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/72) | [Read](https://dev.to/teamzlab/4-free-finance-tools-live-gold-price-uae-crypto-portfolio-us-stock-checker-2m91) | [Read](https://teamzlab.hashnode.dev/4-free-finance-tools-live-gold-price-uae-crypto-portfolio-us-stock-checker) | [Read](https://teamzlab.blogspot.com/2026/03/4-free-finance-tools-live-gold-price.html) | [Read](https://telegra.ph/4-Free-Finance-Tools--Live-Gold-Price-UAE-Crypto-Portfolio-US-Stock-Checker-03-29) |
+| [Free sports calculators for IPL, T20 World Cup, and Champions League fans](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/73) | [Read](https://dev.to/teamzlab/free-sports-calculators-for-ipl-t20-world-cup-and-champions-league-fans-24b1) | — | [Read](https://teamzlab.blogspot.com/2026/03/free-sports-calculators-for-ipl-t20.html) | [Read](https://telegra.ph/Free-sports-calculators-for-IPL-T20-World-Cup-and-Champions-League-fans-03-30) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -251,7 +252,7 @@
 
 ## Full Tool Index
 
-**[View all 1,865 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,873 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
