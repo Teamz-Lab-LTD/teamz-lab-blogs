@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,891 free browser-based tools** across **99 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,895 free browser-based tools** across **99 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -53,7 +53,7 @@
 - [UUID Generator](https://tool.teamzlab.com/dev/uuid-generator/) — Generate v4 UUIDs in bulk
 - [Subnet Calculator](https://tool.teamzlab.com/dev/subnet-calculator/) — CIDR, network ranges, host counts
 
-**[Browse all 73 developer tools →](https://tool.teamzlab.com/dev/)**
+**[Browse all 74 developer tools →](https://tool.teamzlab.com/dev/)**
 
 ## Health & Wellness
 
@@ -145,7 +145,7 @@
 - [Browser Fingerprint Checker](https://tool.teamzlab.com/diagnostic/browser-fingerprint-checker/) — See how trackable you are
 - [WebRTC Leak Checker](https://tool.teamzlab.com/diagnostic/webrtc-leak-checker/) — Detect IP leaks through WebRTC
 
-**[Browse all 34 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
+**[Browse all 36 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
 
 ## Food & Drink
 
@@ -250,6 +250,7 @@
 | [5 Free Tax Calculators: UK CGT, Ireland Director Tax, NZ FIF, Quebec & Israel](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/77) | [Read](https://dev.to/teamzlab/5-free-tax-calculators-uk-cgt-ireland-director-tax-nz-fif-quebec-israel-1h6d) | [Read](https://teamzlab.hashnode.dev/5-free-tax-calculators-uk-cgt-ireland-director-tax-nz-fif-quebec-israel) | [Read](https://teamzlab.blogspot.com/2026/03/5-free-tax-calculators-uk-cgt-ireland.html) | [Read](https://telegra.ph/5-Free-Tax-Calculators-UK-CGT-Ireland-Director-Tax-NZ-FIF-Quebec--Israel-03-30) |
 | [3 Kostenlose Steuerrechner: Kindergeld, Österreich Immobilien & Schweiz Säule 3a](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/78) | [Read](https://dev.to/teamzlab/3-kostenlose-steuerrechner-kindergeld-osterreich-immobilien-schweiz-saule-3a-7d9) | [Read](https://teamzlab.hashnode.dev/3-kostenlose-steuerrechner-kindergeld-osterreich-immobilien-schweiz-saule-3a) | [Read](https://teamzlab.blogspot.com/2026/03/3-kostenlose-steuerrechner-kindergeld.html) | [Read](https://telegra.ph/3-Kostenlose-Steuerrechner-Kindergeld-Österreich-Immobilien--Schweiz-Säule-3a-03-30) |
 | [2 Gratis Belastingcalculators: België Zelfstandige & Noorwegen Formuesskatt](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/79) | [Read](https://dev.to/teamzlab/2-gratis-belastingcalculators-belgie-zelfstandige-noorwegen-formuesskatt-1hh) | [Read](https://teamzlab.hashnode.dev/2-gratis-belastingcalculators-belgie-zelfstandige-noorwegen-formuesskatt) | [Read](https://teamzlab.blogspot.com/2026/03/2-gratis-belastingcalculators-belgie.html) | [Read](https://telegra.ph/2-Gratis-Belastingcalculators-België-Zelfstandige--Noorwegen-Formuesskatt-03-30) |
+| [3 Free WiFi & IoT Tools Every Developer and Homeowner Needs](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/80) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/3-free-wifi-iot-tools-every-developer.html) | [Read](https://telegra.ph/3-Free-WiFi--IoT-Tools-Every-Developer-and-Homeowner-Needs-04-01) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -257,7 +258,7 @@
 
 ## Full Tool Index
 
-**[View all 1,891 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,895 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
