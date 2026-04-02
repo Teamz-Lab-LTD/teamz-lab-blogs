@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,895 free browser-based tools** across **99 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,899 free browser-based tools** across **99 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -187,7 +187,7 @@
 | 🇮🇳 India | 23 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 35 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 37 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
-| 🇳🇱 Netherlands | 13 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
+| 🇳🇱 Netherlands | 17 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
 | 🇸🇪 Sweden | 18 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
 | 🇳🇴 Norway | 13 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
@@ -251,6 +251,7 @@
 | [3 Kostenlose Steuerrechner: Kindergeld, Österreich Immobilien & Schweiz Säule 3a](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/78) | [Read](https://dev.to/teamzlab/3-kostenlose-steuerrechner-kindergeld-osterreich-immobilien-schweiz-saule-3a-7d9) | [Read](https://teamzlab.hashnode.dev/3-kostenlose-steuerrechner-kindergeld-osterreich-immobilien-schweiz-saule-3a) | [Read](https://teamzlab.blogspot.com/2026/03/3-kostenlose-steuerrechner-kindergeld.html) | [Read](https://telegra.ph/3-Kostenlose-Steuerrechner-Kindergeld-Österreich-Immobilien--Schweiz-Säule-3a-03-30) |
 | [2 Gratis Belastingcalculators: België Zelfstandige & Noorwegen Formuesskatt](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/79) | [Read](https://dev.to/teamzlab/2-gratis-belastingcalculators-belgie-zelfstandige-noorwegen-formuesskatt-1hh) | [Read](https://teamzlab.hashnode.dev/2-gratis-belastingcalculators-belgie-zelfstandige-noorwegen-formuesskatt) | [Read](https://teamzlab.blogspot.com/2026/03/2-gratis-belastingcalculators-belgie.html) | [Read](https://telegra.ph/2-Gratis-Belastingcalculators-België-Zelfstandige--Noorwegen-Formuesskatt-03-30) |
 | [3 Free WiFi & IoT Tools Every Developer and Homeowner Needs](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/80) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/3-free-wifi-iot-tools-every-developer.html) | [Read](https://telegra.ph/3-Free-WiFi--IoT-Tools-Every-Developer-and-Homeowner-Needs-04-01) |
+| [4 Gratis Nederlandse Financiële Calculators 2026 — BTW, Vakantiegeld, Erfbelasting, Pensioen](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/81) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/4-gratis-nederlandse-financiele.html) | [Read](https://telegra.ph/4-Gratis-Nederlandse-Financiële-Calculators-2026--BTW-Vakantiegeld-Erfbelasting-Pensioen-04-02) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -258,7 +259,7 @@
 
 ## Full Tool Index
 
-**[View all 1,895 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,899 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
