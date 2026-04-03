@@ -257,6 +257,7 @@
 | [Eid Salami Goes Digital — Free Tools to Make Gift-Giving Fun](https://teamzlab.hashnode.dev/eid-salami-goes-digital-free-tools-to-make-gift-giving-fun-1-1) | — | [Read](https://teamzlab.hashnode.dev/eid-salami-goes-digital-free-tools-to-make-gift-giving-fun-1-1) | — | — |
 | [20+ Free Tools for Bangladesh — bKash, Nagad, Tax, CGPA & More](https://teamzlab.hashnode.dev/20-free-tools-for-bangladesh-bkash-nagad-tax-cgpa-more-1-1) | — | [Read](https://teamzlab.hashnode.dev/20-free-tools-for-bangladesh-bkash-nagad-tax-cgpa-more-1-1) | — | — |
 | [80+ Free Health Calculators — No Signup, No Data Collection](https://teamzlab.hashnode.dev/80-free-health-calculators-no-signup-no-data-collection-1-1) | — | [Read](https://teamzlab.hashnode.dev/80-free-health-calculators-no-signup-no-data-collection-1-1) | — | — |
+| [Free Resume & Career Tools — No Uploads, Your Data Stays Private](https://teamzlab.hashnode.dev/free-resume-career-tools-no-uploads-your-data-stays-private-1-1) | — | [Read](https://teamzlab.hashnode.dev/free-resume-career-tools-no-uploads-your-data-stays-private-1-1) | — | — |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
