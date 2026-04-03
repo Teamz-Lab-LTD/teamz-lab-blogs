@@ -257,6 +257,7 @@
 | [20+ Free Tools for Bangladesh — bKash, Nagad, Tax, CGPA & More](https://teamzlab.hashnode.dev/20-free-tools-for-bangladesh-bkash-nagad-tax-cgpa-more-1) | — | [Read](https://teamzlab.hashnode.dev/20-free-tools-for-bangladesh-bkash-nagad-tax-cgpa-more-1) | — | — |
 | [80+ Free Health Calculators — No Signup, No Data Collection](https://teamzlab.hashnode.dev/80-free-health-calculators-no-signup-no-data-collection-1) | — | [Read](https://teamzlab.hashnode.dev/80-free-health-calculators-no-signup-no-data-collection-1) | — | — |
 | [Free Resume & Career Tools — No Uploads, Your Data Stays Private](https://teamzlab.hashnode.dev/free-resume-career-tools-no-uploads-your-data-stays-private-1) | — | [Read](https://teamzlab.hashnode.dev/free-resume-career-tools-no-uploads-your-data-stays-private-1) | — | — |
+| [Free AI Tools That Run in Your Browser — No Signup, No Server, No Limits](https://teamzlab.hashnode.dev/free-ai-tools-that-run-in-your-browser-no-signup-no-server-no-limits-1) | — | [Read](https://teamzlab.hashnode.dev/free-ai-tools-that-run-in-your-browser-no-signup-no-server-no-limits-1) | — | — |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
