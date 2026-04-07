@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **1,900 free browser-based tools** across **99 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **1,955 free browser-based tools** across **99 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -39,7 +39,7 @@
 - [Net Worth Calculator](https://tool.teamzlab.com/evergreen/net-worth-calculator/) — Track assets minus liabilities
 - [Side Hustle Profit Calculator](https://tool.teamzlab.com/evergreen/side-hustle-profit-calculator/) — Real hourly rate after expenses
 
-**[Browse all 189 finance tools →](https://tool.teamzlab.com/evergreen/)**
+**[Browse all 201 finance tools →](https://tool.teamzlab.com/evergreen/)**
 
 ## Developer Tools
 
@@ -66,7 +66,7 @@
 - [Body Fat Calculator](https://tool.teamzlab.com/health/body-fat-calculator/) — Estimate from measurements
 - [Phone Addiction Test](https://tool.teamzlab.com/health/phone-addiction-test/) — Screen time assessment
 
-**[Browse all 99 health tools →](https://tool.teamzlab.com/health/)**
+**[Browse all 107 health tools →](https://tool.teamzlab.com/health/)**
 
 ## Beauty & Skincare
 
@@ -145,7 +145,7 @@
 - [Browser Fingerprint Checker](https://tool.teamzlab.com/diagnostic/browser-fingerprint-checker/) — See how trackable you are
 - [WebRTC Leak Checker](https://tool.teamzlab.com/diagnostic/webrtc-leak-checker/) — Detect IP leaks through WebRTC
 
-**[Browse all 36 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
+**[Browse all 37 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
 
 ## Food & Drink
 
@@ -169,8 +169,8 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 87 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 29 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇺🇸 United States | 93 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇬🇧 United Kingdom | 31 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 47 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 9 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇧🇪 Belgium | 6 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
@@ -182,9 +182,9 @@
 | 🇳🇿 New Zealand | 13 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 29 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 34 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
-| 🇨🇦 Canada | 16 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
-| 🇮🇳 India | 23 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
+| 🇦🇺 Australia | 37 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 19 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 35 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 37 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
 | 🇳🇱 Netherlands | 17 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
@@ -255,6 +255,7 @@
 | [4 Gratis Nederlandse Financiële Calculators 2026 — BTW, Vakantiegeld, Erfbelasting, Pensioen](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/81) | [Read](https://dev.to/teamzlab/4-gratis-nederlandse-financiele-calculators-2026-btw-vakantiegeld-erfbelasting-pensioen-514d) | [Read](https://teamzlab.hashnode.dev/4-gratis-nederlandse-financiele-calculators-2026-btw-vakantiegeld-erfbelasting-pensioen-1) | [Read](https://teamzlab.blogspot.com/2026/04/4-gratis-nederlandse-financiele.html) | [Read](https://telegra.ph/4-Gratis-Nederlandse-Financiële-Calculators-2026--BTW-Vakantiegeld-Erfbelasting-Pensioen-04-02) |
 | [Google Just Started Flagging Battery-Draining Apps — Here's How to Check Your Phone's Real Health](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/83) | [Read](https://dev.to/teamzlab/how-to-check-if-your-android-phone-has-spyware-battery-drain-isp-tracking-free-app-no-root-2kjl) | [Read](https://teamzlab.hashnode.dev/how-to-check-if-your-android-phone-has-spyware-battery-drain-isp-tracking-free-app-no-root) | [Read](https://teamzlab.blogspot.com/2026/04/google-just-started-flagging-battery.html) | [Read](https://telegra.ph/Google-Just-Started-Flagging-Battery-Draining-Apps--Heres-How-to-Check-Your-Phones-Real-Health-04-04) |
 | [How to Detect Keyloggers & Spyware on Android Without Root (Free)](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/84) | — | [Read](https://teamzlab.hashnode.dev/how-to-detect-keyloggers-spyware-on-android-without-root-free) | [Read](https://teamzlab.blogspot.com/2026/04/how-to-detect-keyloggers-spyware-on.html) | [Read](https://telegra.ph/How-to-Detect-Keyloggers--Spyware-on-Android-Without-Root-Free-04-04) |
+| [How to Check Battery Health on Samsung, Pixel & Xiaomi — Real Power in Watts (Free)](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/86) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/how-to-check-battery-health-on-samsung_0470832835.html) | [Read](https://telegra.ph/How-to-Check-Battery-Health-on-Samsung-Pixel--Xiaomi--Real-Power-in-Watts-Free-04-07-2) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -262,7 +263,7 @@
 
 ## Full Tool Index
 
-**[View all 1,900 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 1,955 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
