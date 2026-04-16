@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,255 free browser-based tools** across **113 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,286 free browser-based tools** across **113 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -169,7 +169,7 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 113 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇺🇸 United States | 118 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
 | 🇬🇧 United Kingdom | 35 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 55 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 17 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
@@ -260,7 +260,7 @@
 | [I Built 3 Free CQC Compliance Tools for UK Care Homes](https://dev.to/teamzlab/i-built-3-free-cqc-compliance-tools-for-uk-care-homes-oca) | [Read](https://dev.to/teamzlab/i-built-3-free-cqc-compliance-tools-for-uk-care-homes-oca) | [Read](https://teamzlab.hashnode.dev/i-built-3-free-cqc-compliance-tools-for-uk-care-homes) | — | — |
 | [How to Prepare for a CQC Inspection in 2026 — Complete Checklist](https://dev.to/teamzlab/how-to-prepare-for-a-cqc-inspection-in-2026-complete-checklist-lcj) | [Read](https://dev.to/teamzlab/how-to-prepare-for-a-cqc-inspection-in-2026-complete-checklist-lcj) | — | — | — |
 | [I Built a Care Home Compliance App in 2 Weeks — Here Is the Tech Stack](https://teamzlab.hashnode.dev/i-built-a-care-home-compliance-app-in-2-weeks-here-is-the-tech-stack) | — | [Read](https://teamzlab.hashnode.dev/i-built-a-care-home-compliance-app-in-2-weeks-here-is-the-tech-stack) | [Read](https://teamzlab.blogspot.com/2026/04/i-built-care-home-compliance-app-in-2.html) | — |
-| [Free Aged Care Compliance Software for Australia — ACQS 2025 Ready](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/88) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/free-aged-care-compliance-software-for_01977709986.html) | [Read](https://telegra.ph/Free-Aged-Care-Compliance-Software-for-Australia--ACQS-2025-Ready-04-11) |
+| [Free Aged Care Compliance Software for Australia — ACQS 2025 Ready](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/88) | [Read](https://dev.to/teamzlab/free-aged-care-compliance-software-for-australia-acqs-2025-ready-o62) | — | [Read](https://teamzlab.blogspot.com/2026/04/free-aged-care-compliance-software-for_01977709986.html) | [Read](https://telegra.ph/Free-Aged-Care-Compliance-Software-for-Australia--ACQS-2025-Ready-04-11) |
 | [Free Rest Home Compliance Software for New Zealand — NZS 8134 Audit Tool](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/89) | [Read](https://dev.to/teamzlab/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-2dn6) | [Read](https://teamzlab.hashnode.dev/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-1) | [Read](https://teamzlab.blogspot.com/2026/04/free-rest-home-compliance-software-for.html) | [Read](https://telegra.ph/Free-Rest-Home-Compliance-Software-for-New-Zealand--NZS-8134-Audit-Tool-04-14) |
 | [Japan Worker Tax Calculators 2026 — Nenmatsu-Chousei, Zangyou-Dai, Ikuji-Kyuugyou](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/91) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/japan-worker-tax-calculators-2026.html) | [Read](https://telegra.ph/Japan-Worker-Tax-Calculators-2026--Nenmatsu-Chousei-Zangyou-Dai-Ikuji-Kyuugyou-04-15) |
 
@@ -270,7 +270,7 @@
 
 ## Full Tool Index
 
-**[View all 2,255 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,286 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
