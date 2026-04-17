@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,286 free browser-based tools** across **113 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,289 free browser-based tools** across **114 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -263,6 +263,7 @@
 | [Free Aged Care Compliance Software for Australia — ACQS 2025 Ready](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/88) | [Read](https://dev.to/teamzlab/free-aged-care-compliance-software-for-australia-acqs-2025-ready-o62) | — | [Read](https://teamzlab.blogspot.com/2026/04/free-aged-care-compliance-software-for_01977709986.html) | [Read](https://telegra.ph/Free-Aged-Care-Compliance-Software-for-Australia--ACQS-2025-Ready-04-11) |
 | [Free Rest Home Compliance Software for New Zealand — NZS 8134 Audit Tool](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/89) | [Read](https://dev.to/teamzlab/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-2dn6) | [Read](https://teamzlab.hashnode.dev/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-1) | [Read](https://teamzlab.blogspot.com/2026/04/free-rest-home-compliance-software-for.html) | [Read](https://telegra.ph/Free-Rest-Home-Compliance-Software-for-New-Zealand--NZS-8134-Audit-Tool-04-14) |
 | [Japan Worker Tax Calculators 2026 — Nenmatsu-Chousei, Zangyou-Dai, Ikuji-Kyuugyou](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/91) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/japan-worker-tax-calculators-2026.html) | [Read](https://telegra.ph/Japan-Worker-Tax-Calculators-2026--Nenmatsu-Chousei-Zangyou-Dai-Ikuji-Kyuugyou-04-15) |
+| [3 Free Emergency Prep Tools: Readiness Score, Pantry Tracker & a 30-Day Challenge](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/92) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/3-free-emergency-prep-tools-readiness.html) | [Read](https://telegra.ph/3-Free-Emergency-Prep-Tools-Readiness-Score-Pantry-Tracker--a-30-Day-Challenge-04-17) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -270,7 +271,7 @@
 
 ## Full Tool Index
 
-**[View all 2,286 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,289 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
