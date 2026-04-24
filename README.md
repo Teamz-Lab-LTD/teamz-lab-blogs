@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **32 free browser-based tools** across **2 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,292 free browser-based tools** across **114 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -39,7 +39,7 @@
 - [Net Worth Calculator](https://tool.teamzlab.com/evergreen/net-worth-calculator/) — Track assets minus liabilities
 - [Side Hustle Profit Calculator](https://tool.teamzlab.com/evergreen/side-hustle-profit-calculator/) — Real hourly rate after expenses
 
-**[Browse all 0 finance tools →](https://tool.teamzlab.com/evergreen/)**
+**[Browse all 235 finance tools →](https://tool.teamzlab.com/evergreen/)**
 
 ## Developer Tools
 
@@ -53,7 +53,7 @@
 - [UUID Generator](https://tool.teamzlab.com/dev/uuid-generator/) — Generate v4 UUIDs in bulk
 - [Subnet Calculator](https://tool.teamzlab.com/dev/subnet-calculator/) — CIDR, network ranges, host counts
 
-**[Browse all 0 developer tools →](https://tool.teamzlab.com/dev/)**
+**[Browse all 74 developer tools →](https://tool.teamzlab.com/dev/)**
 
 ## Health & Wellness
 
@@ -66,7 +66,7 @@
 - [Body Fat Calculator](https://tool.teamzlab.com/health/body-fat-calculator/) — Estimate from measurements
 - [Phone Addiction Test](https://tool.teamzlab.com/health/phone-addiction-test/) — Screen time assessment
 
-**[Browse all 0 health tools →](https://tool.teamzlab.com/health/)**
+**[Browse all 114 health tools →](https://tool.teamzlab.com/health/)**
 
 ## Beauty & Skincare
 
@@ -76,7 +76,7 @@
 - [Sunscreen Reapply Timer](https://tool.teamzlab.com/skincare/sunscreen-reapply-timer/) — Time your next sunscreen reapplication by activity
 - [Skin Type Quiz](https://tool.teamzlab.com/skincare/skin-type-quiz/) — Get a simple skincare starting point based on your skin profile
 
-**[Browse all 0 skincare tools →](https://tool.teamzlab.com/skincare/)**
+**[Browse all 11 skincare tools →](https://tool.teamzlab.com/skincare/)**
 
 ## AI-Powered Tools
 
@@ -118,7 +118,7 @@
 - [Salary Negotiation Script Generator](https://tool.teamzlab.com/career/salary-negotiation-script-generator/) — Generate negotiation scripts in multiple tones and currencies
 - [Offer Comparison Calculator](https://tool.teamzlab.com/career/offer-comparison-calculator/) — Compare job offers with total compensation
 
-**[Browse all 0 career tools →](https://tool.teamzlab.com/career/)**
+**[Browse all 32 career tools →](https://tool.teamzlab.com/career/)**
 
 ## Math & Science
 
@@ -127,7 +127,7 @@
 - [Matrix Calculator](https://tool.teamzlab.com/math/matrix-calculator/) — Operations up to 10x10 matrices
 - [Standard Deviation Calculator](https://tool.teamzlab.com/math/standard-deviation-calculator/) — Mean, median, variance
 
-**[Browse all 0 math tools →](https://tool.teamzlab.com/math/)**
+**[Browse all 30 math tools →](https://tool.teamzlab.com/math/)**
 
 ## Gaming
 
@@ -136,7 +136,7 @@
 - [DPI Calculator](https://tool.teamzlab.com/gaming/dpi-calculator/) — Effective DPI and sensitivity converter
 - [PC Bottleneck Calculator](https://tool.teamzlab.com/gaming/pc-bottleneck-calculator/) — CPU vs GPU bottleneck analysis
 
-**[Browse all 0 gaming tools →](https://tool.teamzlab.com/gaming/)**
+**[Browse all 20 gaming tools →](https://tool.teamzlab.com/gaming/)**
 
 ## Privacy & Security
 
@@ -145,7 +145,7 @@
 - [Browser Fingerprint Checker](https://tool.teamzlab.com/diagnostic/browser-fingerprint-checker/) — See how trackable you are
 - [WebRTC Leak Checker](https://tool.teamzlab.com/diagnostic/webrtc-leak-checker/) — Detect IP leaks through WebRTC
 
-**[Browse all 0 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
+**[Browse all 39 diagnostic tools →](https://tool.teamzlab.com/diagnostic/)**
 
 ## Food & Drink
 
@@ -169,7 +169,29 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-
+| 🇺🇸 United States | 118 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇬🇧 United Kingdom | 35 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇩🇪 Germany | 55 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
+| 🇫🇷 France | 17 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇧🇪 Belgium | 6 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
+| 🇱🇺 Luxembourg | 3 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
+| 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
+| 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
+| 🇯🇵 Japan | 19 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
+| 🇸🇬 Singapore | 19 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 17 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
+| 🇧🇩 Bangladesh | 31 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
+| 🇦🇺 Australia | 38 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 21 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
+| 🇪🇸 Spain | 35 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
+| 🇵🇹 Portugal | 37 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
+| 🇳🇱 Netherlands | 17 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
+| 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
+| 🇸🇪 Sweden | 18 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
+| 🇳🇴 Norway | 13 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
+| 🇮🇹 Italy | 14 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
 
@@ -243,9 +265,7 @@
 | [Free Rest Home Compliance Software for New Zealand — NZS 8134 Audit Tool](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/89) | [Read](https://dev.to/teamzlab/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-2dn6) | [Read](https://teamzlab.hashnode.dev/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-1) | [Read](https://teamzlab.blogspot.com/2026/04/free-rest-home-compliance-software-for.html) | [Read](https://telegra.ph/Free-Rest-Home-Compliance-Software-for-New-Zealand--NZS-8134-Audit-Tool-04-14) |
 | [Japan Worker Tax Calculators 2026 — Nenmatsu-Chousei, Zangyou-Dai, Ikuji-Kyuugyou](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/91) | — | [Read](https://teamzlab.hashnode.dev/japan-worker-tax-calculators-2026-nenmatsu-chousei-zangyou-dai-ikuji-kyuugyou) | [Read](https://teamzlab.blogspot.com/2026/04/japan-worker-tax-calculators-2026.html) | [Read](https://telegra.ph/Japan-Worker-Tax-Calculators-2026--Nenmatsu-Chousei-Zangyou-Dai-Ikuji-Kyuugyou-04-15) |
 | [3 Free Emergency Prep Tools: Readiness Score, Pantry Tracker & a 30-Day Challenge](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/92) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/3-free-emergency-prep-tools-readiness.html) | [Read](https://telegra.ph/3-Free-Emergency-Prep-Tools-Readiness-Score-Pantry-Tracker--a-30-Day-Challenge-04-17) |
-| [Why NestJS?](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/94) | [Read](https://dev.to/teamzlab/why-nestjs-1ahj) | [Read](https://teamzlab.hashnode.dev/why-nestjs) | [Read](https://teamzlab.blogspot.com/2026/04/why-nestjs.html) | [Read](https://telegra.ph/Why-NestJS-04-21) |
-| [10 free paycheck + freelance calculators in one app (no signup, no paywall)](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/95) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/10-free-paycheck-freelance-calculators.html) | [Read](https://telegra.ph/10-free-paycheck--freelance-calculators-in-one-app-no-signup-no-paywall-04-23) |
-| [We built 2,500+ free browser tools — no signup, here's what's inside](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/96) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/we-built-2500-free-browser-tools-no.html) | [Read](https://telegra.ph/We-built-2500-free-browser-tools--no-signup-heres-whats-inside-04-24) |
+| [I Built a Free UptimeRobot Alternative That Runs Entirely in Your Browser](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/97) | [Read](https://dev.to/teamzlab/i-built-a-free-uptimerobot-alternative-that-runs-entirely-in-your-browser-1b42) | [Read](https://teamzlab.hashnode.dev/i-built-a-free-uptimerobot-alternative-that-runs-entirely-in-your-browser) | [Read](https://teamzlab.blogspot.com/2026/04/i-built-free-uptimerobot-alternative.html) | [Read](https://telegra.ph/I-Built-a-Free-UptimeRobot-Alternative-That-Runs-Entirely-in-Your-Browser-04-24) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -253,7 +273,7 @@
 
 ## Full Tool Index
 
-**[View all 32 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,292 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
