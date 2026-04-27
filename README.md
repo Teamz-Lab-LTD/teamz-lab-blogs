@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,302 free browser-based tools** across **115 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,329 free browser-based tools** across **115 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -178,11 +178,11 @@
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 21 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 19 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 17 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇸🇬 Singapore | 21 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 23 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 31 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 38 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇦🇺 Australia | 43 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
 | 🇨🇦 Canada | 21 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 35 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
@@ -257,6 +257,7 @@
 | [How to Detect Keyloggers & Spyware on Android Without Root (Free)](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/84) | — | [Read](https://teamzlab.hashnode.dev/how-to-detect-keyloggers-spyware-on-android-without-root-free) | [Read](https://teamzlab.blogspot.com/2026/04/how-to-detect-keyloggers-spyware-on.html) | [Read](https://telegra.ph/How-to-Detect-Keyloggers--Spyware-on-Android-Without-Root-Free-04-04) |
 | [How to Check Battery Health on Samsung, Pixel & Xiaomi — Real Power in Watts (Free)](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/86) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/how-to-check-battery-health-on-samsung_0470832835.html) | [Read](https://telegra.ph/How-to-Check-Battery-Health-on-Samsung-Pixel--Xiaomi--Real-Power-in-Watts-Free-04-07-2) |
 | [Is My ISP Spying on Me? How to Check DNS Manipulation, DPI & SSL Hijacking on Android (Free)](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/90) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/is-my-isp-spying-on-me-how-to-check-dns.html) | [Read](https://telegra.ph/Is-My-ISP-Spying-on-Me-How-to-Check-DNS-Manipulation-DPI--SSL-Hijacking-on-Android-Free-04-14) |
+| [How to Know If Someone Is Monitoring Your Phone — 8 Signs & Free Detection App (Android)](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/98) | [Read](https://dev.to/teamzlab/how-to-know-if-someone-is-monitoring-your-phone-8-signs-free-detection-app-android-43fo) | — | [Read](https://teamzlab.blogspot.com/2026/04/how-to-know-if-someone-is-monitoring.html) | [Read](https://telegra.ph/How-to-Know-If-Someone-Is-Monitoring-Your-Phone--8-Signs--Free-Detection-App-Android-04-27) |
 | [I Built a Free Business Card Maker That Runs Entirely in Your Browser](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/93) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/i-built-free-business-card-maker-that.html) | [Read](https://telegra.ph/I-Built-a-Free-Business-Card-Maker-That-Runs-Entirely-in-Your-Browser-04-20) |
 | [I Built 3 Free CQC Compliance Tools for UK Care Homes](https://dev.to/teamzlab/i-built-3-free-cqc-compliance-tools-for-uk-care-homes-oca) | [Read](https://dev.to/teamzlab/i-built-3-free-cqc-compliance-tools-for-uk-care-homes-oca) | [Read](https://teamzlab.hashnode.dev/i-built-3-free-cqc-compliance-tools-for-uk-care-homes) | — | — |
 | [How to Prepare for a CQC Inspection in 2026 — Complete Checklist](https://dev.to/teamzlab/how-to-prepare-for-a-cqc-inspection-in-2026-complete-checklist-lcj) | [Read](https://dev.to/teamzlab/how-to-prepare-for-a-cqc-inspection-in-2026-complete-checklist-lcj) | — | — | — |
@@ -273,7 +274,7 @@
 
 ## Full Tool Index
 
-**[View all 2,302 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,329 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
