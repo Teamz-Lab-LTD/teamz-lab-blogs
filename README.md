@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,329 free browser-based tools** across **115 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,335 free browser-based tools** across **115 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -118,7 +118,7 @@
 - [Salary Negotiation Script Generator](https://tool.teamzlab.com/career/salary-negotiation-script-generator/) — Generate negotiation scripts in multiple tones and currencies
 - [Offer Comparison Calculator](https://tool.teamzlab.com/career/offer-comparison-calculator/) — Compare job offers with total compensation
 
-**[Browse all 32 career tools →](https://tool.teamzlab.com/career/)**
+**[Browse all 33 career tools →](https://tool.teamzlab.com/career/)**
 
 ## Math & Science
 
@@ -169,8 +169,8 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 118 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 35 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇺🇸 United States | 119 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇬🇧 United Kingdom | 36 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 56 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 17 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇧🇪 Belgium | 6 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
@@ -178,11 +178,11 @@
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 21 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 21 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇸🇬 Singapore | 22 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
 | 🇳🇿 New Zealand | 23 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 31 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 43 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇦🇺 Australia | 44 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
 | 🇨🇦 Canada | 21 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 35 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
@@ -264,6 +264,7 @@
 | [I Built a Care Home Compliance App in 2 Weeks — Here Is the Tech Stack](https://dev.to/teamzlab/i-built-a-care-home-compliance-app-in-2-weeks-here-is-the-tech-stack-1p8n) | [Read](https://dev.to/teamzlab/i-built-a-care-home-compliance-app-in-2-weeks-here-is-the-tech-stack-1p8n) | [Read](https://teamzlab.hashnode.dev/i-built-a-care-home-compliance-app-in-2-weeks-here-is-the-tech-stack) | [Read](https://teamzlab.blogspot.com/2026/04/i-built-care-home-compliance-app-in-2.html) | — |
 | [Free Aged Care Compliance Software for Australia — ACQS 2025 Ready](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/88) | [Read](https://dev.to/teamzlab/free-aged-care-compliance-software-for-australia-acqs-2025-ready-o62) | [Read](https://teamzlab.hashnode.dev/free-aged-care-compliance-software-for-australia-acqs-2025-ready-1-1-1-1-1) | [Read](https://teamzlab.blogspot.com/2026/04/free-aged-care-compliance-software-for_01977709986.html) | [Read](https://telegra.ph/Free-Aged-Care-Compliance-Software-for-Australia--ACQS-2025-Ready-04-11) |
 | [Free Rest Home Compliance Software for New Zealand — NZS 8134 Audit Tool](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/89) | [Read](https://dev.to/teamzlab/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-2dn6) | [Read](https://teamzlab.hashnode.dev/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-1) | [Read](https://teamzlab.blogspot.com/2026/04/free-rest-home-compliance-software-for.html) | [Read](https://telegra.ph/Free-Rest-Home-Compliance-Software-for-New-Zealand--NZS-8134-Audit-Tool-04-14) |
+| [CQC Inspection Checklist 2026: The Complete Care Home Prep Guide](https://dev.to/teamzlab/cqc-inspection-checklist-2026-the-complete-care-home-prep-guide-1p3m) | [Read](https://dev.to/teamzlab/cqc-inspection-checklist-2026-the-complete-care-home-prep-guide-1p3m) | [Read](https://teamzlab.hashnode.dev/cqc-inspection-checklist-2026-the-complete-care-home-prep-guide) | [Read](https://teamzlab.blogspot.com/2026/04/cqc-inspection-checklist-2026-complete.html) | [Read](https://telegra.ph/CQC-Inspection-Checklist-2026-The-Complete-Care-Home-Prep-Guide-04-28) |
 | [Japan Worker Tax Calculators 2026 — Nenmatsu-Chousei, Zangyou-Dai, Ikuji-Kyuugyou](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/91) | — | [Read](https://teamzlab.hashnode.dev/japan-worker-tax-calculators-2026-nenmatsu-chousei-zangyou-dai-ikuji-kyuugyou) | [Read](https://teamzlab.blogspot.com/2026/04/japan-worker-tax-calculators-2026.html) | [Read](https://telegra.ph/Japan-Worker-Tax-Calculators-2026--Nenmatsu-Chousei-Zangyou-Dai-Ikuji-Kyuugyou-04-15) |
 | [3 Free Emergency Prep Tools: Readiness Score, Pantry Tracker & a 30-Day Challenge](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/92) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/3-free-emergency-prep-tools-readiness.html) | [Read](https://telegra.ph/3-Free-Emergency-Prep-Tools-Readiness-Score-Pantry-Tracker--a-30-Day-Challenge-04-17) |
 | [I Built a Free UptimeRobot Alternative That Runs Entirely in Your Browser](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/97) | [Read](https://dev.to/teamzlab/i-built-a-free-uptimerobot-alternative-that-runs-entirely-in-your-browser-1b42) | [Read](https://teamzlab.hashnode.dev/i-built-a-free-uptimerobot-alternative-that-runs-entirely-in-your-browser) | [Read](https://teamzlab.blogspot.com/2026/04/i-built-free-uptimerobot-alternative.html) | [Read](https://telegra.ph/I-Built-a-Free-UptimeRobot-Alternative-That-Runs-Entirely-in-Your-Browser-04-24) |
@@ -274,7 +275,7 @@
 
 ## Full Tool Index
 
-**[View all 2,329 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,335 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
