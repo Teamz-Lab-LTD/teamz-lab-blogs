@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,356 free browser-based tools** across **117 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,364 free browser-based tools** across **118 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -182,14 +182,14 @@
 | 🇳🇿 New Zealand | 23 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 31 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 44 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇦🇺 Australia | 45 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
 | 🇨🇦 Canada | 22 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
-| 🇪🇸 Spain | 38 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
-| 🇵🇹 Portugal | 40 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
+| 🇪🇸 Spain | 39 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
+| 🇵🇹 Portugal | 41 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
 | 🇳🇱 Netherlands | 17 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
-| 🇸🇪 Sweden | 18 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
+| 🇸🇪 Sweden | 19 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
 | 🇳🇴 Norway | 14 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
 | 🇮🇹 Italy | 14 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
@@ -264,6 +264,7 @@
 | [I Built a Care Home Compliance App in 2 Weeks — Here Is the Tech Stack](https://dev.to/teamzlab/i-built-a-care-home-compliance-app-in-2-weeks-here-is-the-tech-stack-1p8n) | [Read](https://dev.to/teamzlab/i-built-a-care-home-compliance-app-in-2-weeks-here-is-the-tech-stack-1p8n) | [Read](https://teamzlab.hashnode.dev/i-built-a-care-home-compliance-app-in-2-weeks-here-is-the-tech-stack) | [Read](https://teamzlab.blogspot.com/2026/04/i-built-care-home-compliance-app-in-2.html) | — |
 | [Free Aged Care Compliance Software for Australia — ACQS 2025 Ready](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/88) | [Read](https://dev.to/teamzlab/free-aged-care-compliance-software-for-australia-acqs-2025-ready-o62) | [Read](https://teamzlab.hashnode.dev/free-aged-care-compliance-software-for-australia-acqs-2025-ready-1-1-1-1-1-1) | [Read](https://teamzlab.blogspot.com/2026/04/free-aged-care-compliance-software-for_01977709986.html) | [Read](https://telegra.ph/Free-Aged-Care-Compliance-Software-for-Australia--ACQS-2025-Ready-04-11) |
 | [Free Rest Home Compliance Software for New Zealand — NZS 8134 Audit Tool](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/89) | [Read](https://dev.to/teamzlab/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-2dn6) | [Read](https://teamzlab.hashnode.dev/free-rest-home-compliance-software-for-new-zealand-nzs-8134-audit-tool-1) | [Read](https://teamzlab.blogspot.com/2026/04/free-rest-home-compliance-software-for.html) | [Read](https://telegra.ph/Free-Rest-Home-Compliance-Software-for-New-Zealand--NZS-8134-Audit-Tool-04-14) |
+| [CQC Inspection Checklist 2026: The Complete Care Home Prep Guide](https://dev.to/teamzlab/cqc-inspection-checklist-2026-the-complete-care-home-prep-guide-1pcp) | [Read](https://dev.to/teamzlab/cqc-inspection-checklist-2026-the-complete-care-home-prep-guide-1pcp) | [Read](https://teamzlab.hashnode.dev/cqc-inspection-checklist-2026-the-complete-care-home-prep-guide-1) | [Read](https://teamzlab.blogspot.com/2026/04/cqc-inspection-checklist-2026-complete_02034671943.html) | [Read](https://telegra.ph/CQC-Inspection-Checklist-2026-The-Complete-Care-Home-Prep-Guide-04-29) |
 | [Japan Worker Tax Calculators 2026 — Nenmatsu-Chousei, Zangyou-Dai, Ikuji-Kyuugyou](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/91) | — | [Read](https://teamzlab.hashnode.dev/japan-worker-tax-calculators-2026-nenmatsu-chousei-zangyou-dai-ikuji-kyuugyou) | [Read](https://teamzlab.blogspot.com/2026/04/japan-worker-tax-calculators-2026.html) | [Read](https://telegra.ph/Japan-Worker-Tax-Calculators-2026--Nenmatsu-Chousei-Zangyou-Dai-Ikuji-Kyuugyou-04-15) |
 | [3 Free Emergency Prep Tools: Readiness Score, Pantry Tracker & a 30-Day Challenge](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/92) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/3-free-emergency-prep-tools-readiness.html) | [Read](https://telegra.ph/3-Free-Emergency-Prep-Tools-Readiness-Score-Pantry-Tracker--a-30-Day-Challenge-04-17) |
 | [Why NestJS?](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/94) | [Read](https://dev.to/teamzlab/why-nestjs-1ahj) | [Read](https://teamzlab.hashnode.dev/why-nestjs) | [Read](https://teamzlab.blogspot.com/2026/04/why-nestjs.html) | [Read](https://telegra.ph/Why-NestJS-04-21) |
@@ -276,7 +277,7 @@
 
 ## Full Tool Index
 
-**[View all 2,356 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,364 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
