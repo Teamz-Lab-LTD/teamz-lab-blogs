@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,385 free browser-based tools** across **122 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,420 free browser-based tools** across **122 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -170,27 +170,27 @@
 | Country | Tools | Link |
 |---------|-------|------|
 | 🇺🇸 United States | 119 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 38 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇬🇧 United Kingdom | 39 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 56 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
-| 🇫🇷 France | 18 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇫🇷 France | 20 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇧🇪 Belgium | 7 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
-| 🇱🇺 Luxembourg | 3 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
+| 🇱🇺 Luxembourg | 4 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 21 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 22 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 23 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇸🇬 Singapore | 24 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 24 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 31 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 45 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
-| 🇨🇦 Canada | 22 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇦🇺 Australia | 47 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 23 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 39 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 41 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
 | 🇳🇱 Netherlands | 17 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
-| 🇸🇪 Sweden | 19 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
-| 🇳🇴 Norway | 14 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
+| 🇸🇪 Sweden | 20 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
+| 🇳🇴 Norway | 15 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
 | 🇮🇹 Italy | 14 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
@@ -268,6 +268,7 @@
 | [ACQS 2024: How to Be Quality Assessment Ready Under the 7 Strengthened Standards](https://teamzlab.blogspot.com/2026/04/acqs-2024-how-to-be-quality-assessment.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/acqs-2024-how-to-be-quality-assessment.html) | [Read](https://telegra.ph/ACQS-2024-How-to-Be-Quality-Assessment-Ready-Under-the-7-Strengthened-Standards-04-29) |
 | [NZS 8134 Ngā Paerewa: The Complete Rest Home Certification Guide 2026](https://dev.to/teamzlab/nzs-8134-nga-paerewa-the-complete-rest-home-certification-guide-2026-1e79) | [Read](https://dev.to/teamzlab/nzs-8134-nga-paerewa-the-complete-rest-home-certification-guide-2026-1e79) | [Read](https://teamzlab.hashnode.dev/nzs-8134-nga-paerewa-the-complete-rest-home-certification-guide-2026) | [Read](https://teamzlab.blogspot.com/2026/04/nzs-8134-nga-paerewa-complete-rest-home.html) | [Read](https://telegra.ph/NZS-8134-Ngā-Paerewa-The-Complete-Rest-Home-Certification-Guide-2026-04-30) |
 | [HIQA Inspection Guide 2026: Designated Centre Prep for Irish Nursing Homes](https://teamzlab.blogspot.com/2026/04/hiqa-inspection-guide-2026-designated.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/hiqa-inspection-guide-2026-designated.html) | [Read](https://telegra.ph/HIQA-Inspection-Guide-2026-Designated-Centre-Prep-for-Irish-Nursing-Homes-04-30) |
+| [Your Body Has Two Ages. A Free PhenoAge Calculator Shows the Gap](https://dev.to/teamzlab/your-body-has-two-ages-a-free-phenoage-calculator-shows-the-gap-4i46) | [Read](https://dev.to/teamzlab/your-body-has-two-ages-a-free-phenoage-calculator-shows-the-gap-4i46) | — | [Read](https://teamzlab.blogspot.com/2026/04/your-body-has-two-ages-free-phenoage.html) | [Read](https://telegra.ph/Your-Body-Has-Two-Ages-A-Free-PhenoAge-Calculator-Shows-the-Gap-05-01) |
 | [Japan Worker Tax Calculators 2026 — Nenmatsu-Chousei, Zangyou-Dai, Ikuji-Kyuugyou](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/91) | — | [Read](https://teamzlab.hashnode.dev/japan-worker-tax-calculators-2026-nenmatsu-chousei-zangyou-dai-ikuji-kyuugyou) | [Read](https://teamzlab.blogspot.com/2026/04/japan-worker-tax-calculators-2026.html) | [Read](https://telegra.ph/Japan-Worker-Tax-Calculators-2026--Nenmatsu-Chousei-Zangyou-Dai-Ikuji-Kyuugyou-04-15) |
 | [3 Free Emergency Prep Tools: Readiness Score, Pantry Tracker & a 30-Day Challenge](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/92) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/3-free-emergency-prep-tools-readiness.html) | [Read](https://telegra.ph/3-Free-Emergency-Prep-Tools-Readiness-Score-Pantry-Tracker--a-30-Day-Challenge-04-17) |
 | [Why NestJS?](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/94) | [Read](https://dev.to/teamzlab/why-nestjs-1ahj) | [Read](https://teamzlab.hashnode.dev/why-nestjs) | [Read](https://teamzlab.blogspot.com/2026/04/why-nestjs.html) | [Read](https://telegra.ph/Why-NestJS-04-21) |
@@ -280,7 +281,7 @@
 
 ## Full Tool Index
 
-**[View all 2,385 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,420 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
