@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,420 free browser-based tools** across **122 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,474 free browser-based tools** across **122 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -178,7 +178,7 @@
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 21 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 24 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇸🇬 Singapore | 25 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
 | 🇳🇿 New Zealand | 24 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 31 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
@@ -270,6 +270,7 @@
 | [HIQA Inspection Guide 2026: Designated Centre Prep for Irish Nursing Homes](https://teamzlab.blogspot.com/2026/04/hiqa-inspection-guide-2026-designated.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/hiqa-inspection-guide-2026-designated.html) | [Read](https://telegra.ph/HIQA-Inspection-Guide-2026-Designated-Centre-Prep-for-Irish-Nursing-Homes-04-30) |
 | [Your Body Has Two Ages. A Free PhenoAge Calculator Shows the Gap](https://dev.to/teamzlab/your-body-has-two-ages-a-free-phenoage-calculator-shows-the-gap-4i46) | [Read](https://dev.to/teamzlab/your-body-has-two-ages-a-free-phenoage-calculator-shows-the-gap-4i46) | — | [Read](https://teamzlab.blogspot.com/2026/04/your-body-has-two-ages-free-phenoage.html) | [Read](https://telegra.ph/Your-Body-Has-Two-Ages-A-Free-PhenoAge-Calculator-Shows-the-Gap-05-01) |
 | [Your NZ Mortgage Rate Is About to Reset — Here's a Free Calculator That Shows the Damage](https://teamzlab.blogspot.com/2026/05/your-nz-mortgage-rate-is-about-to-reset.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/your-nz-mortgage-rate-is-about-to-reset.html) | [Read](https://telegra.ph/Your-NZ-Mortgage-Rate-Is-About-to-Reset--Heres-a-Free-Calculator-That-Shows-the-Damage-05-01) |
+| [Ireland's Auto-Enrolment Pension Launches Soon — Here's a Free Calculator That Actually Explains It](https://dev.to/teamzlab/irelands-auto-enrolment-pension-launches-soon-heres-a-free-calculator-that-actually-explains-it-3n9h) | [Read](https://dev.to/teamzlab/irelands-auto-enrolment-pension-launches-soon-heres-a-free-calculator-that-actually-explains-it-3n9h) | — | [Read](https://teamzlab.blogspot.com/2026/05/irelands-auto-enrolment-pension.html) | [Read](https://telegra.ph/Irelands-Auto-Enrolment-Pension-Launches-Soon--Heres-a-Free-Calculator-That-Actually-Explains-It-05-02) |
 | [Japan Worker Tax Calculators 2026 — Nenmatsu-Chousei, Zangyou-Dai, Ikuji-Kyuugyou](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/91) | — | [Read](https://teamzlab.hashnode.dev/japan-worker-tax-calculators-2026-nenmatsu-chousei-zangyou-dai-ikuji-kyuugyou) | [Read](https://teamzlab.blogspot.com/2026/04/japan-worker-tax-calculators-2026.html) | [Read](https://telegra.ph/Japan-Worker-Tax-Calculators-2026--Nenmatsu-Chousei-Zangyou-Dai-Ikuji-Kyuugyou-04-15) |
 | [3 Free Emergency Prep Tools: Readiness Score, Pantry Tracker & a 30-Day Challenge](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/92) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/3-free-emergency-prep-tools-readiness.html) | [Read](https://telegra.ph/3-Free-Emergency-Prep-Tools-Readiness-Score-Pantry-Tracker--a-30-Day-Challenge-04-17) |
 | [Why NestJS?](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/94) | [Read](https://dev.to/teamzlab/why-nestjs-1ahj) | [Read](https://teamzlab.hashnode.dev/why-nestjs) | [Read](https://teamzlab.blogspot.com/2026/04/why-nestjs.html) | [Read](https://telegra.ph/Why-NestJS-04-21) |
@@ -282,7 +283,7 @@
 
 ## Full Tool Index
 
-**[View all 2,420 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,474 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
