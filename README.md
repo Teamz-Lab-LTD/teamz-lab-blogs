@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,515 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,521 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -169,7 +169,7 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 124 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇺🇸 United States | 122 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
 | 🇬🇧 United Kingdom | 39 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 56 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 20 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
@@ -272,6 +272,7 @@
 | [Your NZ Mortgage Rate Is About to Reset — Here's a Free Calculator That Shows the Damage](https://teamzlab.blogspot.com/2026/05/your-nz-mortgage-rate-is-about-to-reset.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/your-nz-mortgage-rate-is-about-to-reset.html) | [Read](https://telegra.ph/Your-NZ-Mortgage-Rate-Is-About-to-Reset--Heres-a-Free-Calculator-That-Shows-the-Damage-05-01) |
 | [Ireland's Auto-Enrolment Pension Launches Soon — Here's a Free Calculator That Actually Explains It](https://dev.to/teamzlab/irelands-auto-enrolment-pension-launches-soon-heres-a-free-calculator-that-actually-explains-it-3n9h) | [Read](https://dev.to/teamzlab/irelands-auto-enrolment-pension-launches-soon-heres-a-free-calculator-that-actually-explains-it-3n9h) | — | [Read](https://teamzlab.blogspot.com/2026/05/irelands-auto-enrolment-pension.html) | [Read](https://telegra.ph/Irelands-Auto-Enrolment-Pension-Launches-Soon--Heres-a-Free-Calculator-That-Actually-Explains-It-05-02) |
 | [86% of Remote Workers Report Burnout — Here's a Free Risk Score That Takes 3 Minutes](https://teamzlab.blogspot.com/2026/05/86-of-remote-workers-report-burnout.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/86-of-remote-workers-report-burnout.html) | [Read](https://telegra.ph/86-of-Remote-Workers-Report-Burnout--Heres-a-Free-Risk-Score-That-Takes-3-Minutes-05-02) |
+| [The UK Employment Rights Bill 2025 Changes Your Job — Here's a Free Checker That Shows How](https://teamzlab.blogspot.com/2026/05/the-uk-employment-rights-bill-2025.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/the-uk-employment-rights-bill-2025.html) | [Read](https://telegra.ph/The-UK-Employment-Rights-Bill-2025-Changes-Your-Job--Heres-a-Free-Checker-That-Shows-How-05-03) |
 | [Japan Worker Tax Calculators 2026 — Nenmatsu-Chousei, Zangyou-Dai, Ikuji-Kyuugyou](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/91) | — | [Read](https://teamzlab.hashnode.dev/japan-worker-tax-calculators-2026-nenmatsu-chousei-zangyou-dai-ikuji-kyuugyou) | [Read](https://teamzlab.blogspot.com/2026/04/japan-worker-tax-calculators-2026.html) | [Read](https://telegra.ph/Japan-Worker-Tax-Calculators-2026--Nenmatsu-Chousei-Zangyou-Dai-Ikuji-Kyuugyou-04-15) |
 | [3 Free Emergency Prep Tools: Readiness Score, Pantry Tracker & a 30-Day Challenge](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/92) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/3-free-emergency-prep-tools-readiness.html) | [Read](https://telegra.ph/3-Free-Emergency-Prep-Tools-Readiness-Score-Pantry-Tracker--a-30-Day-Challenge-04-17) |
 | [Why NestJS?](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/94) | [Read](https://dev.to/teamzlab/why-nestjs-1ahj) | [Read](https://teamzlab.hashnode.dev/why-nestjs) | [Read](https://teamzlab.blogspot.com/2026/04/why-nestjs.html) | [Read](https://telegra.ph/Why-NestJS-04-21) |
@@ -284,7 +285,7 @@
 
 ## Full Tool Index
 
-**[View all 2,515 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,521 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
