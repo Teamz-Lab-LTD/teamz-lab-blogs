@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,521 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,658 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -169,29 +169,29 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 122 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 39 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
-| 🇩🇪 Germany | 56 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
-| 🇫🇷 France | 20 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
-| 🇧🇪 Belgium | 7 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
-| 🇱🇺 Luxembourg | 8 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
+| 🇺🇸 United States | 127 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇬🇧 United Kingdom | 43 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇩🇪 Germany | 58 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
+| 🇫🇷 France | 23 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇧🇪 Belgium | 8 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
+| 🇱🇺 Luxembourg | 9 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
-| 🇯🇵 Japan | 21 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 26 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 25 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇯🇵 Japan | 22 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
+| 🇸🇬 Singapore | 27 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 29 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 31 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 47 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
-| 🇨🇦 Canada | 23 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇦🇺 Australia | 60 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 25 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 39 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 41 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
 | 🇳🇱 Netherlands | 17 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
-| 🇸🇪 Sweden | 20 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
-| 🇳🇴 Norway | 17 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
-| 🇮🇹 Italy | 14 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
+| 🇸🇪 Sweden | 23 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
+| 🇳🇴 Norway | 18 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
+| 🇮🇹 Italy | 15 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
 
@@ -285,7 +285,7 @@
 
 ## Full Tool Index
 
-**[View all 2,521 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,658 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
