@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,695 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,731 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -170,27 +170,27 @@
 | Country | Tools | Link |
 |---------|-------|------|
 | 🇺🇸 United States | 128 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 45 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
-| 🇩🇪 Germany | 58 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
-| 🇫🇷 France | 23 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇬🇧 United Kingdom | 48 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇩🇪 Germany | 59 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
+| 🇫🇷 France | 24 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇧🇪 Belgium | 8 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
 | 🇱🇺 Luxembourg | 9 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 22 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 27 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 29 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇸🇬 Singapore | 28 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 30 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 31 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 60 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
-| 🇨🇦 Canada | 25 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇦🇺 Australia | 61 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 26 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
-| 🇪🇸 Spain | 39 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
+| 🇪🇸 Spain | 40 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 41 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
 | 🇳🇱 Netherlands | 17 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
-| 🇸🇪 Sweden | 25 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
-| 🇳🇴 Norway | 21 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
+| 🇸🇪 Sweden | 26 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
+| 🇳🇴 Norway | 23 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
 | 🇮🇹 Italy | 15 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
@@ -280,6 +280,8 @@
 | [We built 2,500+ free browser tools — no signup, here's what's inside](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions/96) | — | — | [Read](https://teamzlab.blogspot.com/2026/04/we-built-2500-free-browser-tools-no.html) | [Read](https://telegra.ph/We-built-2500-free-browser-tools--no-signup-heres-whats-inside-04-24) |
 | [Kapitalertragsteuer (KESt) in Österreich 2025 kostenlos berechnen](https://dev.to/teamzlab/kapitalertragsteuer-kest-in-osterreich-2025-kostenlos-berechnen-47lc) | [Read](https://dev.to/teamzlab/kapitalertragsteuer-kest-in-osterreich-2025-kostenlos-berechnen-47lc) | [Read](https://teamzlab.hashnode.dev/kapitalertragsteuer-kest-in-osterreich-2025-kostenlos-berechnen) | [Read](https://teamzlab.blogspot.com/2026/05/kapitalertragsteuer-kest-in-osterreich.html) | [Read](https://telegra.ph/Kapitalertragsteuer-KESt-in-Österreich-2025-kostenlos-berechnen-05-06) |
 | [Précompte mobilier en Belgique 2025 : calculez votre retenue gratuitement](https://teamzlab.blogspot.com/2026/05/precompte-mobilier-en-belgique-2025.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/precompte-mobilier-en-belgique-2025.html) | [Read](https://telegra.ph/Précompte-mobilier-en-Belgique-2025--calculez-votre-retenue-gratuitement-05-06) |
+| [Cash-Out Refinance Calculator 2025 — Free Payment & Break-Even Estimator](https://dev.to/teamzlab/cash-out-refinance-calculator-2025-free-payment-break-even-estimator-1il1) | [Read](https://dev.to/teamzlab/cash-out-refinance-calculator-2025-free-payment-break-even-estimator-1il1) | [Read](https://teamzlab.hashnode.dev/cash-out-refinance-calculator-2025-free-payment-break-even-estimator) | [Read](https://teamzlab.blogspot.com/2026/05/cash-out-refinance-calculator-2025-free.html) | [Read](https://telegra.ph/Cash-Out-Refinance-Calculator-2025--Free-Payment--Break-Even-Estimator-05-07) |
+| [Calculadora de pensión de jubilación en España 2025 — Gratis y privada](https://teamzlab.blogspot.com/2026/05/calculadora-de-pension-de-jubilacion-en.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/calculadora-de-pension-de-jubilacion-en.html) | [Read](https://telegra.ph/Calculadora-de-pensión-de-jubilación-en-España-2025--Gratis-y-privada-05-07) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -287,7 +289,7 @@
 
 ## Full Tool Index
 
-**[View all 2,695 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,731 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
