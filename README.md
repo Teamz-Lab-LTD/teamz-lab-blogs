@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **2,925 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **2,946 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -171,7 +171,7 @@
 |---------|-------|------|
 | 🇺🇸 United States | 145 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
 | 🇬🇧 United Kingdom | 53 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
-| 🇩🇪 Germany | 61 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
+| 🇩🇪 Germany | 62 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 26 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇧🇪 Belgium | 8 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
 | 🇱🇺 Luxembourg | 9 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
@@ -179,17 +179,17 @@
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 22 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
 | 🇸🇬 Singapore | 35 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 34 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇳🇿 New Zealand | 35 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 31 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 67 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇦🇺 Australia | 68 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
 | 🇨🇦 Canada | 28 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 41 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 41 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
 | 🇳🇱 Netherlands | 17 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
-| 🇸🇪 Sweden | 29 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
+| 🇸🇪 Sweden | 30 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
 | 🇳🇴 Norway | 26 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
 | 🇮🇹 Italy | 15 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
@@ -295,7 +295,7 @@
 
 ## Full Tool Index
 
-**[View all 2,925 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 2,946 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
