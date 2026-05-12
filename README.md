@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **3,504 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **4,254 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -169,7 +169,7 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 152 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇺🇸 United States | 902 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
 | 🇬🇧 United Kingdom | 56 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 66 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 35 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
@@ -295,7 +295,7 @@
 
 ## Full Tool Index
 
-**[View all 3,504 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 4,254 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
