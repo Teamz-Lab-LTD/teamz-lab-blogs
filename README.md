@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **4,319 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **4,384 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -118,7 +118,7 @@
 - [Salary Negotiation Script Generator](https://tool.teamzlab.com/career/salary-negotiation-script-generator/) — Generate negotiation scripts in multiple tones and currencies
 - [Offer Comparison Calculator](https://tool.teamzlab.com/career/offer-comparison-calculator/) — Compare job offers with total compensation
 
-**[Browse all 77 career tools →](https://tool.teamzlab.com/career/)**
+**[Browse all 82 career tools →](https://tool.teamzlab.com/career/)**
 
 ## Math & Science
 
@@ -172,14 +172,14 @@
 | 🇺🇸 United States | 902 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
 | 🇬🇧 United Kingdom | 56 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 66 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
-| 🇫🇷 France | 35 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇫🇷 France | 37 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇧🇪 Belgium | 8 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
 | 🇱🇺 Luxembourg | 14 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
 | 🇯🇵 Japan | 22 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 50 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 48 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇸🇬 Singapore | 52 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 49 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 37 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
 | 🇦🇺 Australia | 76 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
@@ -190,7 +190,7 @@
 | 🇳🇱 Netherlands | 18 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
 | 🇸🇪 Sweden | 38 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
-| 🇳🇴 Norway | 33 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
+| 🇳🇴 Norway | 34 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
 | 🇮🇹 Italy | 15 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
@@ -290,6 +290,7 @@
 | [FHA vs Conventional Loan: This Free Calculator Shows Which Costs Less Over 30 Years](https://teamzlab.blogspot.com/2026/05/fha-vs-conventional-loan-this-free.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/fha-vs-conventional-loan-this-free.html) | [Read](https://telegra.ph/FHA-vs-Conventional-Loan-This-Free-Calculator-Shows-Which-Costs-Less-Over-30-Years-05-11) |
 | [Australian Super Tax Concessions Calculator 2026-27 — Free Tool](https://teamzlab.blogspot.com/2026/05/australian-super-tax-concessions.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/australian-super-tax-concessions.html) | [Read](https://telegra.ph/Australian-Super-Tax-Concessions-Calculator-2026-27--Free-Tool-05-13) |
 | [How Much Auto Insurance Do You Actually Need? Free Coverage Calculator](https://teamzlab.blogspot.com/2026/05/how-much-auto-insurance-do-you-actually.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/how-much-auto-insurance-do-you-actually.html) | [Read](https://telegra.ph/How-Much-Auto-Insurance-Do-You-Actually-Need-Free-Coverage-Calculator-05-13) |
+| [Down Payment Calculator — Compare 3.5% vs 20% and See the PMI Impact](https://teamzlab.blogspot.com/2026/05/down-payment-calculator-compare-35-vs.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/down-payment-calculator-compare-35-vs.html) | [Read](https://telegra.ph/Down-Payment-Calculator--Compare-35-vs-20-and-See-the-PMI-Impact-05-14) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -297,7 +298,7 @@
 
 ## Full Tool Index
 
-**[View all 4,319 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 4,384 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
