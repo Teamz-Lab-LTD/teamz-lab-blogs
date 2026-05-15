@@ -293,6 +293,7 @@
 | [Down Payment Calculator — Compare 3.5% vs 20% and See the PMI Impact](https://teamzlab.blogspot.com/2026/05/down-payment-calculator-compare-35-vs.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/down-payment-calculator-compare-35-vs.html) | [Read](https://telegra.ph/Down-Payment-Calculator--Compare-35-vs-20-and-See-the-PMI-Impact-05-14) |
 | [MTD for Income Tax Starts April 2026 — Calculate Your Penalty Risk Before It's Too Late](https://teamzlab.blogspot.com/2026/05/mtd-for-income-tax-starts-april-2026.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/mtd-for-income-tax-starts-april-2026.html) | [Read](https://telegra.ph/MTD-for-Income-Tax-Starts-April-2026--Calculate-Your-Penalty-Risk-Before-Its-Too-Late-05-14) |
 | [Mortgage Recast vs Refinance — Free Calculator Shows Which Saves More](https://teamzlab.blogspot.com/2026/05/mortgage-recast-vs-refinance-free.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/mortgage-recast-vs-refinance-free.html) | [Read](https://telegra.ph/Mortgage-Recast-vs-Refinance--Free-Calculator-Shows-Which-Saves-More-05-15) |
+| [KiwiSaver Fees: A 1% Difference Could Cost You $70,000 by Retirement](https://teamzlab.blogspot.com/2026/05/kiwisaver-fees-1-difference-could-cost.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/kiwisaver-fees-1-difference-could-cost.html) | — |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
