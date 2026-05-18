@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **4,384 free browser-based tools** across **123 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **4,832 free browser-based tools** across **124 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -118,7 +118,7 @@
 - [Salary Negotiation Script Generator](https://tool.teamzlab.com/career/salary-negotiation-script-generator/) — Generate negotiation scripts in multiple tones and currencies
 - [Offer Comparison Calculator](https://tool.teamzlab.com/career/offer-comparison-calculator/) — Compare job offers with total compensation
 
-**[Browse all 82 career tools →](https://tool.teamzlab.com/career/)**
+**[Browse all 126 career tools →](https://tool.teamzlab.com/career/)**
 
 ## Math & Science
 
@@ -169,28 +169,28 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 902 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 56 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
-| 🇩🇪 Germany | 66 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
-| 🇫🇷 France | 37 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇺🇸 United States | 912 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇬🇧 United Kingdom | 71 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇩🇪 Germany | 73 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
+| 🇫🇷 France | 43 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇧🇪 Belgium | 8 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
-| 🇱🇺 Luxembourg | 14 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
+| 🇱🇺 Luxembourg | 23 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
-| 🇯🇵 Japan | 22 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 52 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 49 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
-| 🇦🇪 UAE | 9 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
+| 🇯🇵 Japan | 30 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
+| 🇸🇬 Singapore | 71 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 57 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇦🇪 UAE | 17 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 37 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 76 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
-| 🇨🇦 Canada | 30 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇦🇺 Australia | 80 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 38 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 41 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 41 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
-| 🇳🇱 Netherlands | 18 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
+| 🇳🇱 Netherlands | 25 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 19 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
-| 🇸🇪 Sweden | 38 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
-| 🇳🇴 Norway | 34 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
+| 🇸🇪 Sweden | 41 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
+| 🇳🇴 Norway | 46 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
 | 🇮🇹 Italy | 15 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
@@ -296,6 +296,8 @@
 | [KiwiSaver Fees: A 1% Difference Could Cost You $70,000 by Retirement](https://teamzlab.blogspot.com/2026/05/kiwisaver-fees-1-difference-could-cost.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/kiwisaver-fees-1-difference-could-cost.html) | — |
 | [EPF i-Saraan Calculator: Self-Employed Malaysians Get 15% Government Incentive](https://teamzlab.blogspot.com/2026/05/epf-i-saraan-calculator-self-employed.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/epf-i-saraan-calculator-self-employed.html) | [Read](https://telegra.ph/EPF-i-Saraan-Calculator-Self-Employed-Malaysians-Get-15-Government-Incentive-05-16) |
 | [HK MPF Voluntary Contributions Planner 2026: TVC Tax Savings + Retirement Projection](https://teamzlab.blogspot.com/2026/05/hk-mpf-voluntary-contributions-planner.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/hk-mpf-voluntary-contributions-planner.html) | [Read](https://telegra.ph/HK-MPF-Voluntary-Contributions-Planner-2026-TVC-Tax-Savings--Retirement-Projection-05-17) |
+| [5 Free Finance Calculators You Didn't Know You Needed — DCA, Rule of 72, Pension Lump Sum vs Annuity](https://teamzlab.blogspot.com/2026/05/5-free-finance-calculators-you-didnt.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/5-free-finance-calculators-you-didnt.html) | [Read](https://telegra.ph/5-Free-Finance-Calculators-You-Didnt-Know-You-Needed--DCA-Rule-of-72-Pension-Lump-Sum-vs-Annuity-05-17) |
+| [Free Tax Calculators for Switzerland, Hong Kong & Ireland — 2026 Rates, Zero Sign-Up](https://teamzlab.blogspot.com/2026/05/free-tax-calculators-for-switzerland.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/free-tax-calculators-for-switzerland.html) | [Read](https://telegra.ph/Free-Tax-Calculators-for-Switzerland-Hong-Kong--Ireland--2026-Rates-Zero-Sign-Up-05-18) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -303,7 +305,7 @@
 
 ## Full Tool Index
 
-**[View all 4,384 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 4,832 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
