@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **5,807 free browser-based tools** across **124 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **6,109 free browser-based tools** across **124 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -118,7 +118,7 @@
 - [Salary Negotiation Script Generator](https://tool.teamzlab.com/career/salary-negotiation-script-generator/) — Generate negotiation scripts in multiple tones and currencies
 - [Offer Comparison Calculator](https://tool.teamzlab.com/career/offer-comparison-calculator/) — Compare job offers with total compensation
 
-**[Browse all 188 career tools →](https://tool.teamzlab.com/career/)**
+**[Browse all 198 career tools →](https://tool.teamzlab.com/career/)**
 
 ## Math & Science
 
@@ -169,29 +169,29 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 912 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 82 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇺🇸 United States | 924 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇬🇧 United Kingdom | 90 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 83 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
-| 🇫🇷 France | 44 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇫🇷 France | 62 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇧🇪 Belgium | 20 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
-| 🇱🇺 Luxembourg | 43 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
+| 🇱🇺 Luxembourg | 55 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
 | 🇵🇱 Poland | 3 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 3 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
-| 🇯🇵 Japan | 47 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
-| 🇸🇬 Singapore | 88 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
-| 🇳🇿 New Zealand | 91 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
-| 🇦🇪 UAE | 17 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
+| 🇯🇵 Japan | 49 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
+| 🇸🇬 Singapore | 102 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
+| 🇳🇿 New Zealand | 104 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
+| 🇦🇪 UAE | 21 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 37 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 88 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
-| 🇨🇦 Canada | 40 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇦🇺 Australia | 98 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 50 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 41 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 41 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
-| 🇳🇱 Netherlands | 38 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
+| 🇳🇱 Netherlands | 40 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 31 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
-| 🇸🇪 Sweden | 60 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
+| 🇸🇪 Sweden | 75 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
 | 🇳🇴 Norway | 62 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
-| 🇮🇹 Italy | 15 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
+| 🇮🇹 Italy | 20 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
 
@@ -300,6 +300,7 @@
 | [Free Tax Calculators for Switzerland, Hong Kong & Ireland — 2026 Rates, Zero Sign-Up](https://teamzlab.blogspot.com/2026/05/free-tax-calculators-for-switzerland.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/free-tax-calculators-for-switzerland.html) | [Read](https://telegra.ph/Free-Tax-Calculators-for-Switzerland-Hong-Kong--Ireland--2026-Rates-Zero-Sign-Up-05-18) |
 | [15 New Free Finance & Tax Calculators — PSLF, Medicaid Spend-Down, NZ Super, EII Ireland & More (2026)](https://teamzlab.blogspot.com/2026/05/15-new-free-finance-tax-calculators.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/15-new-free-finance-tax-calculators.html) | [Read](https://telegra.ph/15-New-Free-Finance--Tax-Calculators--PSLF-Medicaid-Spend-Down-NZ-Super-EII-Ireland--More-2026-05-20) |
 | [15 New Free 2026 Retirement Calculators — FERS, QLAC, QCD, Bond Tent & Monte Carlo](https://teamzlab.blogspot.com/2026/05/15-new-free-2026-retirement-calculators.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/15-new-free-2026-retirement-calculators.html) | — |
+| [USDA Guarantee Fee Calculator 2026 — 1.00% Upfront + 0.35% Annual](https://teamzlab.blogspot.com/2026/05/usda-guarantee-fee-calculator-2026-100.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/usda-guarantee-fee-calculator-2026-100.html) | [Read](https://telegra.ph/USDA-Guarantee-Fee-Calculator-2026--100-Upfront--035-Annual-05-21) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -307,7 +308,7 @@
 
 ## Full Tool Index
 
-**[View all 5,807 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 6,109 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
