@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **6,685 free browser-based tools** across **137 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **6,836 free browser-based tools** across **137 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -118,7 +118,7 @@
 - [Salary Negotiation Script Generator](https://tool.teamzlab.com/career/salary-negotiation-script-generator/) — Generate negotiation scripts in multiple tones and currencies
 - [Offer Comparison Calculator](https://tool.teamzlab.com/career/offer-comparison-calculator/) — Compare job offers with total compensation
 
-**[Browse all 228 career tools →](https://tool.teamzlab.com/career/)**
+**[Browse all 233 career tools →](https://tool.teamzlab.com/career/)**
 
 ## Math & Science
 
@@ -169,28 +169,28 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 929 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
-| 🇬🇧 United Kingdom | 103 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
-| 🇩🇪 Germany | 86 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
-| 🇫🇷 France | 66 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
+| 🇺🇸 United States | 931 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇬🇧 United Kingdom | 118 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
+| 🇩🇪 Germany | 92 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
+| 🇫🇷 France | 69 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
 | 🇧🇪 Belgium | 27 | bruto-netto, registratierechten, erfbelasting | [Browse →](https://tool.teamzlab.com/be/) |
 | 🇱🇺 Luxembourg | 63 | Gehaltsrechner, Steuer, Grenzgänger | [Browse →](https://tool.teamzlab.com/lu/) |
 | 🇵🇱 Poland | 11 | wynagrodzenia, kredyt, PIT | [Browse →](https://tool.teamzlab.com/pl/) |
 | 🇨🇿 Czech Republic | 12 | mzdy, hypotéky, daně | [Browse →](https://tool.teamzlab.com/cz/) |
-| 🇯🇵 Japan | 51 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
+| 🇯🇵 Japan | 54 | Tedori, Furusato Nozei, housing loan | [Browse →](https://tool.teamzlab.com/jp/) |
 | 🇸🇬 Singapore | 109 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
 | 🇳🇿 New Zealand | 106 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 25 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
 | 🇧🇩 Bangladesh | 37 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
-| 🇦🇺 Australia | 108 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
-| 🇨🇦 Canada | 59 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
+| 🇦🇺 Australia | 113 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
+| 🇨🇦 Canada | 71 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
 | 🇪🇸 Spain | 45 | hipoteca, finiquito, nómina | [Browse →](https://tool.teamzlab.com/es/) |
 | 🇵🇹 Portugal | 45 | CLT vs PJ, empréstimo, IMC | [Browse →](https://tool.teamzlab.com/pt/) |
 | 🇳🇱 Netherlands | 44 | 30%-ruling, hypotheek, loon | [Browse →](https://tool.teamzlab.com/nl/) |
 | 🇫🇮 Finland | 32 | verolaskuri, asumistuki, eläke | [Browse →](https://tool.teamzlab.com/fi/) |
 | 🇸🇪 Sweden | 75 | skatt, pension, bolån | [Browse →](https://tool.teamzlab.com/se/) |
-| 🇳🇴 Norway | 73 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
+| 🇳🇴 Norway | 76 | skatt, boliglån, feriepenger | [Browse →](https://tool.teamzlab.com/no/) |
 | 🇮🇹 Italy | 27 | stipendio, mutuo, TFR | [Browse →](https://tool.teamzlab.com/it/) |
 
 ---
@@ -302,6 +302,7 @@
 | [15 New Free 2026 Retirement Calculators — FERS, QLAC, QCD, Bond Tent & Monte Carlo](https://teamzlab.blogspot.com/2026/05/15-new-free-2026-retirement-calculators.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/15-new-free-2026-retirement-calculators.html) | — |
 | [USDA Guarantee Fee Calculator 2026 — 1.00% Upfront + 0.35% Annual](https://teamzlab.blogspot.com/2026/05/usda-guarantee-fee-calculator-2026-100.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/usda-guarantee-fee-calculator-2026-100.html) | [Read](https://telegra.ph/USDA-Guarantee-Fee-Calculator-2026--100-Upfront--035-Annual-05-21) |
 | [5 New OBBB and SECURE Act 2.0 Tax Calculators for 2026](https://teamzlab.blogspot.com/2026/05/5-new-obbb-and-secure-act-20-tax.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/5-new-obbb-and-secure-act-20-tax.html) | — |
+| [5 Free Mortgage Calculators Built for 2026 — VA, FHA, ARM Shock, TRID, MCC](https://teamzlab.blogspot.com/2026/05/5-free-mortgage-calculators-built-for.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/5-free-mortgage-calculators-built-for.html) | [Read](https://telegra.ph/5-Free-Mortgage-Calculators-Built-for-2026--VA-FHA-ARM-Shock-TRID-MCC-05-22) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
@@ -309,7 +310,7 @@
 
 ## Full Tool Index
 
-**[View all 6,685 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 6,836 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
