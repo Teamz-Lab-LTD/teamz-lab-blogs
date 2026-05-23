@@ -303,6 +303,7 @@
 | [USDA Guarantee Fee Calculator 2026 — 1.00% Upfront + 0.35% Annual](https://teamzlab.blogspot.com/2026/05/usda-guarantee-fee-calculator-2026-100.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/usda-guarantee-fee-calculator-2026-100.html) | [Read](https://telegra.ph/USDA-Guarantee-Fee-Calculator-2026--100-Upfront--035-Annual-05-21) |
 | [5 New OBBB and SECURE Act 2.0 Tax Calculators for 2026](https://teamzlab.blogspot.com/2026/05/5-new-obbb-and-secure-act-20-tax.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/5-new-obbb-and-secure-act-20-tax.html) | — |
 | [5 Free Mortgage Calculators Built for 2026 — VA, FHA, ARM Shock, TRID, MCC](https://teamzlab.blogspot.com/2026/05/5-free-mortgage-calculators-built-for.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/5-free-mortgage-calculators-built-for.html) | [Read](https://telegra.ph/5-Free-Mortgage-Calculators-Built-for-2026--VA-FHA-ARM-Shock-TRID-MCC-05-22) |
+| [Fat FIRE, Chubby FIRE, and HENRY — 3 Free Calculators for High-Income Earners in 2026](https://teamzlab.blogspot.com/2026/05/fat-fire-chubby-fire-and-henry-3-free.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/fat-fire-chubby-fire-and-henry-3-free.html) | [Read](https://telegra.ph/Fat-FIRE-Chubby-FIRE-and-HENRY--3-Free-Calculators-for-High-Income-Earners-in-2026-05-23) |
 
 **[View all articles →](https://github.com/Teamz-Lab-LTD/teamz-lab-blogs/discussions)**
 
