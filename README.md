@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **6,836 free browser-based tools** across **137 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **6,837 free browser-based tools** across **137 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -181,7 +181,7 @@
 | 🇸🇬 Singapore | 109 | TDSR, HDB, CPF, SPL | [Browse →](https://tool.teamzlab.com/sg/) |
 | 🇳🇿 New Zealand | 106 | KiwiSaver, PAYE, mortgage | [Browse →](https://tool.teamzlab.com/nz/) |
 | 🇦🇪 UAE | 25 | gratuity, Salik, visa fines | [Browse →](https://tool.teamzlab.com/ae/) |
-| 🇧🇩 Bangladesh | 37 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
+| 🇧🇩 Bangladesh | 38 | bKash, Nagad, tax, CGPA | [Browse →](https://tool.teamzlab.com/bd/) |
 | 🇦🇺 Australia | 113 | HECS, super, MLS, CGT | [Browse →](https://tool.teamzlab.com/au/) |
 | 🇨🇦 Canada | 71 | TFSA, RRSP, EI, CCB | [Browse →](https://tool.teamzlab.com/ca/) |
 | 🇮🇳 India | 26 | GST, EMI, PPF, SIP | [Browse →](https://tool.teamzlab.com/in/) |
@@ -271,6 +271,7 @@
 | [MD-Prüfung 2026: Der komplette Vorbereitungsleitfaden für Pflegeeinrichtungen](https://teamzlab.blogspot.com/2026/05/md-prufung-2026-der-komplette.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/md-prufung-2026-der-komplette.html) | [Read](https://telegra.ph/MD-Prüfung-2026-Der-komplette-Vorbereitungsleitfaden-für-Pflegeeinrichtungen-04-29) |
 | [Your Body Has Two Ages. A Free PhenoAge Calculator Shows the Gap](https://dev.to/teamzlab/your-body-has-two-ages-a-free-phenoage-calculator-shows-the-gap-4i46) | [Read](https://dev.to/teamzlab/your-body-has-two-ages-a-free-phenoage-calculator-shows-the-gap-4i46) | — | [Read](https://teamzlab.blogspot.com/2026/04/your-body-has-two-ages-free-phenoage.html) | [Read](https://telegra.ph/Your-Body-Has-Two-Ages-A-Free-PhenoAge-Calculator-Shows-the-Gap-05-01) |
 | [Your NZ Mortgage Rate Is About to Reset — Here's a Free Calculator That Shows the Damage](https://teamzlab.blogspot.com/2026/05/your-nz-mortgage-rate-is-about-to-reset.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/your-nz-mortgage-rate-is-about-to-reset.html) | [Read](https://telegra.ph/Your-NZ-Mortgage-Rate-Is-About-to-Reset--Heres-a-Free-Calculator-That-Shows-the-Damage-05-01) |
+| [Renting Out Your HDB or Condo in Singapore? Here's a Free IRAS Tax Calculator](https://teamzlab.blogspot.com/2026/05/renting-out-your-hdb-or-condo-in.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/renting-out-your-hdb-or-condo-in.html) | [Read](https://telegra.ph/Renting-Out-Your-HDB-or-Condo-in-Singapore-Heres-a-Free-IRAS-Tax-Calculator-05-01) |
 | [Ireland's Auto-Enrolment Pension Launches Soon — Here's a Free Calculator That Actually Explains It](https://dev.to/teamzlab/irelands-auto-enrolment-pension-launches-soon-heres-a-free-calculator-that-actually-explains-it-3n9h) | [Read](https://dev.to/teamzlab/irelands-auto-enrolment-pension-launches-soon-heres-a-free-calculator-that-actually-explains-it-3n9h) | — | [Read](https://teamzlab.blogspot.com/2026/05/irelands-auto-enrolment-pension.html) | [Read](https://telegra.ph/Irelands-Auto-Enrolment-Pension-Launches-Soon--Heres-a-Free-Calculator-That-Actually-Explains-It-05-02) |
 | [86% of Remote Workers Report Burnout — Here's a Free Risk Score That Takes 3 Minutes](https://teamzlab.blogspot.com/2026/05/86-of-remote-workers-report-burnout.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/86-of-remote-workers-report-burnout.html) | [Read](https://telegra.ph/86-of-Remote-Workers-Report-Burnout--Heres-a-Free-Risk-Score-That-Takes-3-Minutes-05-02) |
 | [The UK Employment Rights Bill 2025 Changes Your Job — Here's a Free Checker That Shows How](https://teamzlab.blogspot.com/2026/05/the-uk-employment-rights-bill-2025.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/the-uk-employment-rights-bill-2025.html) | [Read](https://telegra.ph/The-UK-Employment-Rights-Bill-2025-Changes-Your-Job--Heres-a-Free-Checker-That-Shows-How-05-03) |
@@ -313,7 +314,7 @@
 
 ## Full Tool Index
 
-**[View all 6,836 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 6,837 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
