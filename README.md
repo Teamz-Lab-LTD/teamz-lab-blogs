@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **6,845 free browser-based tools** across **138 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **6,846 free browser-based tools** across **138 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -169,7 +169,7 @@
 
 | Country | Tools | Link |
 |---------|-------|------|
-| 🇺🇸 United States | 922 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
+| 🇺🇸 United States | 923 | tax, finance, military | [Browse →](https://tool.teamzlab.com/us/) |
 | 🇬🇧 United Kingdom | 118 | tax, MTD, leave, childcare | [Browse →](https://tool.teamzlab.com/uk/) |
 | 🇩🇪 Germany | 92 | Brutto-Netto, Grundsteuer, Elterngeld | [Browse →](https://tool.teamzlab.com/de/) |
 | 🇫🇷 France | 69 | APL, Prime d'activité, CROUS | [Browse →](https://tool.teamzlab.com/fr/) |
@@ -298,6 +298,7 @@
 | [Itemize or Standard Deduction in 2026? Free Calculator Shows Which Saves More](https://dev.to/teamzlab/itemize-or-standard-deduction-in-2026-free-calculator-shows-which-saves-more-2de4) | [Read](https://dev.to/teamzlab/itemize-or-standard-deduction-in-2026-free-calculator-shows-which-saves-more-2de4) | — | [Read](https://teamzlab.blogspot.com/2026/05/itemize-or-standard-deduction-in-2026.html) | [Read](https://telegra.ph/Itemize-or-Standard-Deduction-in-2026-Free-Calculator-Shows-Which-Saves-More-05-09) |
 | [HELOC vs Cash-Out Refinance — Which Costs Less in 2026?](https://teamzlab.blogspot.com/2026/05/heloc-vs-cash-out-refinance-which-costs.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/heloc-vs-cash-out-refinance-which-costs.html) | [Read](https://telegra.ph/HELOC-vs-Cash-Out-Refinance--Which-Costs-Less-in-2026-05-09) |
 | [How Much Disability Insurance Do You Actually Need? Free Calculator](https://teamzlab.blogspot.com/2026/08/how-much-disability-insurance-do-you.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/08/how-much-disability-insurance-do-you.html) | — |
+| [Capital Gains vs Ordinary Income Tax — See How Much You Save Holding 1+ Year](https://teamzlab.blogspot.com/2026/08/capital-gains-vs-ordinary-income-tax.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/08/capital-gains-vs-ordinary-income-tax.html) | — |
 | [Is Your Dream Home a Jumbo Loan? Free Qualifier Tells You in 30 Seconds](https://dev.to/teamzlab/is-your-dream-home-a-jumbo-loan-free-qualifier-tells-you-in-30-seconds-239b) | [Read](https://dev.to/teamzlab/is-your-dream-home-a-jumbo-loan-free-qualifier-tells-you-in-30-seconds-239b) | — | [Read](https://teamzlab.blogspot.com/2026/05/is-your-dream-home-jumbo-loan-free.html) | [Read](https://telegra.ph/Is-Your-Dream-Home-a-Jumbo-Loan-Free-Qualifier-Tells-You-in-30-Seconds-05-10) |
 | [FHA vs Conventional Loan: This Free Calculator Shows Which Costs Less Over 30 Years](https://teamzlab.blogspot.com/2026/05/fha-vs-conventional-loan-this-free.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/fha-vs-conventional-loan-this-free.html) | [Read](https://telegra.ph/FHA-vs-Conventional-Loan-This-Free-Calculator-Shows-Which-Costs-Less-Over-30-Years-05-11) |
 | [Australian Super Tax Concessions Calculator 2026-27 — Free Tool](https://teamzlab.blogspot.com/2026/05/australian-super-tax-concessions.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/australian-super-tax-concessions.html) | [Read](https://telegra.ph/Australian-Super-Tax-Concessions-Calculator-2026-27--Free-Tool-05-13) |
@@ -324,7 +325,7 @@
 
 ## Full Tool Index
 
-**[View all 6,845 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 6,846 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
