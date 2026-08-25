@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **6,848 free browser-based tools** across **138 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **6,849 free browser-based tools** across **138 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -53,7 +53,7 @@
 - [UUID Generator](https://tool.teamzlab.com/dev/uuid-generator/) — Generate v4 UUIDs in bulk
 - [Subnet Calculator](https://tool.teamzlab.com/dev/subnet-calculator/) — CIDR, network ranges, host counts
 
-**[Browse all 72 developer tools →](https://tool.teamzlab.com/dev/)**
+**[Browse all 73 developer tools →](https://tool.teamzlab.com/dev/)**
 
 ## Health & Wellness
 
@@ -345,7 +345,7 @@
 
 ## Full Tool Index
 
-**[View all 6,848 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 6,849 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
