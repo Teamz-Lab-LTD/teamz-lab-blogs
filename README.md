@@ -1,6 +1,6 @@
 # Awesome Free Browser Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of **6,849 free browser-based tools** across **138 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
+> A curated collection of **6,850 free browser-based tools** across **138 live hubs** — no signup, no downloads, 100% private. Everything runs client-side; your data never leaves your device.
 
 **[tool.teamzlab.com](https://tool.teamzlab.com)** — Built by [Teamz Lab](https://teamzlab.com)
 
@@ -336,6 +336,7 @@
 | [Form 8962 PTC Reconciliation Calculator 2026 — APTC Repay or Refund](https://teamzlab.blogspot.com/2026/08/form-8962-ptc-reconciliation-calculator.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/08/form-8962-ptc-reconciliation-calculator.html) | [Read](https://telegra.ph/Form-8962-PTC-Reconciliation-Calculator-2026--APTC-Repay-or-Refund-05-21) |
 | [457(b) vs 403(b) vs 401(k) 2026 — Public Sector Retirement Comparison](https://teamzlab.blogspot.com/2026/08/457b-vs-403b-vs-401k-2026-public-sector.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/08/457b-vs-403b-vs-401k-2026-public-sector.html) | [Read](https://telegra.ph/457b-vs-403b-vs-401k-2026--Public-Sector-Retirement-Comparison-05-21) |
 | [5 New OBBB and SECURE Act 2.0 Tax Calculators for 2026](https://teamzlab.blogspot.com/2026/05/5-new-obbb-and-secure-act-20-tax.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/5-new-obbb-and-secure-act-20-tax.html) | [Read](https://telegra.ph/5-New-OBBB-and-SECURE-Act-20-Tax-Calculators-for-2026-08-27) |
+| [5 New 2026 International Tax Calculators — NL, NO, LU, IE, CA](https://teamzlab.blogspot.com/2026/08/5-new-2026-international-tax.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/08/5-new-2026-international-tax.html) | [Read](https://telegra.ph/5-New-2026-International-Tax-Calculators--NL-NO-LU-IE-CA-05-22) |
 | [5 Free Mortgage Calculators Built for 2026 — VA, FHA, ARM Shock, TRID, MCC](https://teamzlab.blogspot.com/2026/05/5-free-mortgage-calculators-built-for.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/5-free-mortgage-calculators-built-for.html) | [Read](https://telegra.ph/5-Free-Mortgage-Calculators-Built-for-2026--VA-FHA-ARM-Shock-TRID-MCC-05-22) |
 | [Fat FIRE, Chubby FIRE, and HENRY — 3 Free Calculators for High-Income Earners in 2026](https://teamzlab.blogspot.com/2026/05/fat-fire-chubby-fire-and-henry-3-free.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/fat-fire-chubby-fire-and-henry-3-free.html) | [Read](https://telegra.ph/Fat-FIRE-Chubby-FIRE-and-HENRY--3-Free-Calculators-for-High-Income-Earners-in-2026-05-23) |
 | [Eid ul Adha 2026 (27 May): 8 Free Qurbani Tools — Cost, Share Split, Animal Guide, Live Countdown](https://teamzlab.blogspot.com/2026/05/eid-ul-adha-2026-27-may-8-free-qurbani.html) | — | — | [Read](https://teamzlab.blogspot.com/2026/05/eid-ul-adha-2026-27-may-8-free-qurbani.html) | [Read](https://telegra.ph/Eid-ul-Adha-2026-27-May-8-Free-Qurbani-Tools--Cost-Share-Split-Animal-Guide-Live-Countdown-05-23) |
@@ -348,7 +349,7 @@
 
 ## Full Tool Index
 
-**[View all 6,849 tools organized by category → TOOLS.md](TOOLS.md)**
+**[View all 6,850 tools organized by category → TOOLS.md](TOOLS.md)**
 
 Every tool with a direct link — searchable, browsable, and all dofollow.
 
